@@ -1,0 +1,9 @@
+h1. About
+
+Shared lookup table files for Metamorph transformations.
+
+Contains @*.csv@ or @*.tsv@ files in folder @data/@ and documentation about the data and code that generates the data in corresponding files in @docs/@.
+
+h2. License
+
+Data under "CC0":https://creativecommons.org/publicdomain/zero/1.0/, code under "EPL":https://www.eclipse.org/legal/epl-v10.html.
