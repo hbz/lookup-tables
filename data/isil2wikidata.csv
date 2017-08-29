@@ -157,6 +157,7 @@ DE-1078	http://www.wikidata.org/entity/Q28662103
 DE-1079	http://www.wikidata.org/entity/Q1682896
 DE-107	http://www.wikidata.org/entity/Q2084562
 DE-1080	http://www.wikidata.org/entity/Q28662104
+DE-1080	http://www.wikidata.org/entity/Q31838942
 DE-1081	http://www.wikidata.org/entity/Q28733581
 DE-1082a	http://www.wikidata.org/entity/Q28745031
 DE-1082	http://www.wikidata.org/entity/Q28738436
@@ -1596,6 +1597,7 @@ DE-248	http://www.wikidata.org/entity/Q28661805
 DE-249	http://www.wikidata.org/entity/Q28684930
 DE-24	http://www.wikidata.org/entity/Q317950
 DE-2500	http://www.wikidata.org/entity/Q29970257
+DE-2520	http://www.wikidata.org/entity/Q265049
 DE-255	http://www.wikidata.org/entity/Q28739428
 DE-258	http://www.wikidata.org/entity/Q28661807
 DE-259	http://www.wikidata.org/entity/Q28686786
@@ -1653,6 +1655,7 @@ DE-34-35	http://www.wikidata.org/entity/Q28739824
 DE-34-80	http://www.wikidata.org/entity/Q28745006
 DE-34	http://www.wikidata.org/entity/Q2496316
 DE-351	http://www.wikidata.org/entity/Q28681897
+DE-352	http://www.wikidata.org/entity/Q37979269
 DE-353	http://www.wikidata.org/entity/Q28661819
 DE-354	http://www.wikidata.org/entity/Q28731254
 DE-355	http://www.wikidata.org/entity/Q2496330
@@ -3230,6 +3233,7 @@ DE-Hge2	http://www.wikidata.org/entity/Q28719993
 DE-Hgn1	http://www.wikidata.org/entity/Q28684139
 DE-Hid1	http://www.wikidata.org/entity/Q28720289
 DE-Hil1	http://www.wikidata.org/entity/Q28738620
+DE-Hil1	http://www.wikidata.org/entity/Q896935
 DE-Hil2	http://www.wikidata.org/entity/Q28733435
 DE-Hil3-1	http://www.wikidata.org/entity/Q28745001
 DE-Hil3-2	http://www.wikidata.org/entity/Q28745003
@@ -3287,6 +3291,7 @@ DE-Hv137	http://www.wikidata.org/entity/Q28739323
 DE-Hv138	http://www.wikidata.org/entity/Q28737509
 DE-Hv14	http://www.wikidata.org/entity/Q18616725
 DE-Hv3	http://www.wikidata.org/entity/Q28738624
+DE-Hv4	http://www.wikidata.org/entity/Q33099725
 DE-Hw1	http://www.wikidata.org/entity/Q28733635
 DE-Hzg1	http://www.wikidata.org/entity/Q28719857
 DE-Hzr1	http://www.wikidata.org/entity/Q28783694
@@ -3384,6 +3389,7 @@ DE-Kn180	http://www.wikidata.org/entity/Q28738663
 DE-Kn182	http://www.wikidata.org/entity/Q28738664
 DE-Kn183	http://www.wikidata.org/entity/Q28738665
 DE-Kn184	http://www.wikidata.org/entity/Q28734752
+DE-Kn185	http://www.wikidata.org/entity/Q33294590
 DE-Kn186	http://www.wikidata.org/entity/Q28738667
 DE-Kn188	http://www.wikidata.org/entity/Q28720120
 DE-Kn189	http://www.wikidata.org/entity/Q28738888
@@ -3625,6 +3631,7 @@ DE-M4	http://www.wikidata.org/entity/Q28737862
 DE-M500	http://www.wikidata.org/entity/Q28738977
 DE-M501	http://www.wikidata.org/entity/Q28739010
 DE-M502	http://www.wikidata.org/entity/Q28739030
+DE-M504237	http://www.wikidata.org/entity/Q30103291
 DE-M504	http://www.wikidata.org/entity/Q28739112
 DE-M505	http://www.wikidata.org/entity/Q28739163
 DE-M506	http://www.wikidata.org/entity/Q28739176
@@ -3819,7 +3826,7 @@ DE-MUS-018328	http://www.wikidata.org/entity/Q830164
 DE-MUS-019029	http://www.wikidata.org/entity/Q16003191
 DE-MUS-019212	http://www.wikidata.org/entity/Q555019
 DE-MUS-019316	http://www.wikidata.org/entity/Q885171
-DE-MUS-019514	http://www.wikidata.org/entity/Q693615
+DE-MUS-019514	http://www.wikidata.org/entity/Q32659772
 DE-MUS-019910	http://www.wikidata.org/entity/Q568767
 DE-MUS-020024	http://www.wikidata.org/entity/Q1576734
 DE-MUS-020326	http://www.wikidata.org/entity/Q787842
@@ -4194,6 +4201,7 @@ DE-MUS-257810	http://www.wikidata.org/entity/Q896726
 DE-MUS-258417	http://www.wikidata.org/entity/Q805329
 DE-MUS-259816	http://www.wikidata.org/entity/Q1448165
 DE-MUS-260613	http://www.wikidata.org/entity/Q1662096
+DE-MUS-260717	http://www.wikidata.org/entity/Q20791136
 DE-MUS-263810	http://www.wikidata.org/entity/Q636513
 DE-MUS-265014	http://www.wikidata.org/entity/Q1444958
 DE-MUS-265316	http://www.wikidata.org/entity/Q470564
