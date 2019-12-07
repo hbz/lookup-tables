@@ -138,6 +138,7 @@
 "CH-000469-3"	http://www.wikidata.org/entity/Q20614250
 "CH-000479-X"	http://www.wikidata.org/entity/Q27490297
 "CH-000525-4"	http://www.wikidata.org/entity/Q16964584
+"CH-000544-X"	http://www.wikidata.org/entity/Q60846668
 "CH-000557-8"	http://www.wikidata.org/entity/Q68330285
 "CH-000589-1"	http://www.wikidata.org/entity/Q68330313
 "CH-000633-1"	http://www.wikidata.org/entity/Q63645072
@@ -2582,6 +2583,7 @@
 "DE-B2136"	http://www.wikidata.org/entity/Q28733492
 "DE-B2138"	http://www.wikidata.org/entity/Q28738341
 "DE-B2139"	http://www.wikidata.org/entity/Q28681426
+"DE-B2139"	http://www.wikidata.org/entity/Q55153331
 "DE-B2170"	http://www.wikidata.org/entity/Q28727617
 "DE-B219"	http://www.wikidata.org/entity/Q28738448
 "DE-B220"	http://www.wikidata.org/entity/Q28739184
@@ -2612,6 +2614,7 @@
 "DE-B458"	http://www.wikidata.org/entity/Q15848804
 "DE-B459"	http://www.wikidata.org/entity/Q28650388
 "DE-B460"	http://www.wikidata.org/entity/Q28738330
+"DE-B460"	http://www.wikidata.org/entity/Q55153331
 "DE-B461"	http://www.wikidata.org/entity/Q28681459
 "DE-B462"	http://www.wikidata.org/entity/Q28681445
 "DE-B464"	http://www.wikidata.org/entity/Q28737890
@@ -3860,6 +3863,7 @@
 "DE-Ma12"	http://www.wikidata.org/entity/Q28738011
 "DE-Ma13"	http://www.wikidata.org/entity/Q28738012
 "DE-Ma14"	http://www.wikidata.org/entity/Q28738013
+"DE-Ma14"	http://www.wikidata.org/entity/Q57401032
 "DE-Ma16"	http://www.wikidata.org/entity/Q28738015
 "DE-Ma25"	http://www.wikidata.org/entity/Q1802231
 "DE-Ma26"	http://www.wikidata.org/entity/Q28720027
@@ -11025,4 +11029,5 @@
 "DE-Zwi2"	http://www.wikidata.org/entity/Q28738854
 "DE-Zwi8"	http://www.wikidata.org/entity/Q28738117
 "DE-Zwl1"	http://www.wikidata.org/entity/Q28720226
+"ISIL DE-B700"	http://www.wikidata.org/entity/Q55153376
 "MDE-MUS-244413"	http://www.wikidata.org/entity/Q76633999
