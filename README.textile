@@ -1,6 +1,6 @@
 h1. About
 
-Shared lookup table files for Metamorph transformations.
+Shared lookup table files for library catalog transformations.
 
 Contains @*.csv@ or @*.tsv@ files in folder @data/@ and documentation about the data and code that generates the data in corresponding files in @docs/@.
 
