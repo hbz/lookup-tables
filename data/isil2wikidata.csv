@@ -351,7 +351,7 @@
 "DE-1025"	http://www.wikidata.org/entity/Q28733572
 "DE-1026"	http://www.wikidata.org/entity/Q28662072
 "DE-1027"	http://www.wikidata.org/entity/Q28738430
-"DE-1028%2BDE102"	http://www.wikidata.org/entity/Q1622145
+"DE-1028"	http://www.wikidata.org/entity/Q1622145
 "DE-1028"	http://www.wikidata.org/entity/Q28738327
 "DE-1029"	http://www.wikidata.org/entity/Q28738328
 "DE-1030"	http://www.wikidata.org/entity/Q28662074
@@ -4569,7 +4569,7 @@
 "DE-MUS-031212"	http://www.wikidata.org/entity/Q76633659
 "DE-MUS-031227"	http://www.wikidata.org/entity/Q1603145
 "DE-MUS-031321"	http://www.wikidata.org/entity/Q1954435
-"DE-MUS-031425"	http://www.wikidata.org/entity/Q76633327
+"DE-MUS-031425"	http://www.wikidata.org/entity/Q76633326
 "DE-MUS-031529"	http://www.wikidata.org/entity/Q76633326
 "DE-MUS-031618"	http://www.wikidata.org/entity/Q891746
 "DE-MUS-031623"	http://www.wikidata.org/entity/Q76633740
@@ -10287,7 +10287,7 @@
 "DE-MUS-972816"	http://www.wikidata.org/entity/Q76636442
 "DE-MUS-972910"	http://www.wikidata.org/entity/Q76636470
 "DE-MUS-973017"	http://www.wikidata.org/entity/Q76635830
-"DE-MUS-973111"	http://www.wikidata.org/entity/Q76636510
+"DE-MUS-973111"	http://www.wikidata.org/entity/Q76636507
 "DE-MUS-973215"	http://www.wikidata.org/entity/Q76636541
 "DE-MUS-973413"	http://www.wikidata.org/entity/Q76636572
 "DE-MUS-973517"	http://www.wikidata.org/entity/Q76636589
@@ -11123,4 +11123,3 @@
 "DE-Zwi2"	http://www.wikidata.org/entity/Q28738854
 "DE-Zwi8"	http://www.wikidata.org/entity/Q28738117
 "DE-Zwl1"	http://www.wikidata.org/entity/Q28720226
-"ISIL%3ADE-1390"	http://www.wikidata.org/entity/Q28683220
