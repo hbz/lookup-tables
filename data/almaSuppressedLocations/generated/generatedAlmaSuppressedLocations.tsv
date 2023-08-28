@@ -1,6 +1,23 @@
 MainLibraryCode+AlmaSuppressedLocations	status
 49HBZ_DET+RES_SHARE	suppressed
 49HBZ_EVH+XXX	suppressed
+49HBZ_FHA+ILL	suppressed
+49HBZ_FHM+DMB_F	suppressed
+49HBZ_FHM+DMB_H	suppressed
+49HBZ_FHM+DMB_S	suppressed
+49HBZ_FHM+ILL	suppressed
+49HBZ_FHM+LBA_V	suppressed
+49HBZ_FHM+PB_V	suppressed
+49HBZ_FHM+Stb_B	suppressed
+49HBZ_FHM+TsH_F	suppressed
+49HBZ_FHM+TsH_S	suppressed
+49HBZ_FHM+TsM_F	suppressed
+49HBZ_FHM+TsM_H	suppressed
+49HBZ_FHM+TsM_L	suppressed
+49HBZ_FHM+TsM_S	suppressed
+49HBZ_FHM+TsT_H	suppressed
+49HBZ_FHM+TsT_L	suppressed
+49HBZ_FHM+TsT_S	suppressed
 49HBZ_FUH+AUSTRA	suppressed
 49HBZ_HBI+BiblVerw	suppressed
 49HBZ_HBI+CB_ZSReg	suppressed
@@ -11,6 +28,7 @@ MainLibraryCode+AlmaSuppressedLocations	status
 49HBZ_HBI+ILL_CM	suppressed
 49HBZ_HBI+ILL	suppressed
 49HBZ_HBI+LAM_ZSReg	suppressed
+49HBZ_HBO+OUT_RS_REQ	suppressed
 49HBZ_HSD+AusS	suppressed
 49HBZ_HSN+ILL	suppressed
 49HBZ_OWL+ILL	suppressed
@@ -18,6 +36,9 @@ MainLibraryCode+AlmaSuppressedLocations	status
 49HBZ_RHW+KAM PFL	suppressed
 49HBZ_RHW+KLE AFL	suppressed
 49HBZ_RHW+KLE PFL	suppressed
+49HBZ_RUW+ILL	suppressed
+49HBZ_RUW+SF_MH	suppressed
+49HBZ_RUW+UNASSIGNED	suppressed
 49HBZ_THK+LOESCH_D	suppressed
 49HBZ_THK+LOESCH_G	suppressed
 49HBZ_THK+LOESCH_L	suppressed
