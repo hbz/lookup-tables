@@ -1,5 +1,4 @@
 DE-1010	http://katalog.fh-gelsenkirchen.de/libero/WebopacOpenURL.cls?ACTION=DISPLAY&sid=Libero:GEL&RID={hbzid}
-DE-5	https://bonnus.ulb.uni-bonn.de/Summon/Search?referrerBonnus=portlet&lookfor={hbzid}
 DE-6	https://hbz-ulbms.primo.exlibrisgroup.com/discovery/search?query=any,contains,{hbzid}&tab=Everything&search_scope=MyInst_and_CI&vid=49HBZ_ULM:VU2&offset=0
 DE-6-005	https://hbz-ulbms.primo.exlibrisgroup.com/discovery/search?query=any,contains,{hbzid}&tab=Everything&search_scope=MyInst_and_CI&vid=49HBZ_ULM:VU2&offset=0
 DE-6-006	https://hbz-ulbms.primo.exlibrisgroup.com/discovery/search?query=any,contains,{hbzid}&tab=Everything&search_scope=MyInst_and_CI&vid=49HBZ_ULM:VU2&offset=0
