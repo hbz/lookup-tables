@@ -65,4 +65,4 @@ DE-6-A	https://hbz-ulbms.primo.exlibrisgroup.com/discovery/search?query=any,cont
 DE-6-M	https://hbz-ulbms.primo.exlibrisgroup.com/discovery/search?query=any,contains,{almaMmsId}&tab=Everything&search_scope=MyInst_and_CI&vid=49HBZ_ULM:VU2&offset=0
 DE-6-N	https://hbz-ulbms.primo.exlibrisgroup.com/discovery/search?query=any,contains,{almaMmsId}&tab=Everything&search_scope=MyInst_and_CI&vid=49HBZ_ULM:VU2&offset=0
 DE-6-Z	https://hbz-ulbms.primo.exlibrisgroup.com/discovery/search?query=any,contains,{almaMmsId}&tab=Everything&search_scope=MyInst_and_CI&vid=49HBZ_ULM:VU2&offset=0
-DE-385	https://tricat.uni-trier.de/permalink/49HBZ_UBT/1hikhph/alma990369784100206441
+DE-385	https://tricat.uni-trier.de/permalink/49HBZ_UBT/1hikhph/alma{almaMmsId}
