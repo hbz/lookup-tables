@@ -24,5 +24,4 @@ DE-Dm13	http://www.fhb.fh-dortmund.de/webOPACClient/start.do?Query=0010=%22{hbzi
 DE-Due62	https://hs-duesseldorf.digibib.net/search/katalog/record/(DE-605){hbzid}
 DE-Kn38	https://hfmt-koeln.digibib.net/search/katalog/record/58:{hbzid}
 DE-Kob7	http://aleph1.uni-koblenz.de/F/?func=find-b&request={hbzid}&find_code=IDN&adjacent=N&local_base=KOL01&x=45&y=11&filter_code_2=WYR&filter_request_2=
-DE-Lan1	http://aleph1.uni-koblenz.de/F/?func=find-b&request={hbzid}&find_code=IDN&adjacent=N&local_base=KOL01&x=45&y=11&filter_code_2=WYR&filter_request_2=
 DE-Zw1	http://kat.lbz-rlp.de/webOPACClient.lbzsis/start.do?Language=De&Query=010%3D%22{hbzid}%22&selectedViewBranchlib=2

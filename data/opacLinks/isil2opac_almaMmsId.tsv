@@ -71,3 +71,4 @@ DE-6-N	https://hbz-ulbms.primo.exlibrisgroup.com/discovery/search?query=any,cont
 DE-6-Z	https://hbz-ulbms.primo.exlibrisgroup.com/discovery/search?query=any,contains,{almaMmsId}&tab=Everything&search_scope=MyInst_and_CI&vid=49HBZ_ULM:VU2&offset=0
 DE-82	https://katalog.ub.rwth-aachen.de/permalink/49HBZ_UBA/kloccf/alma{almaMmsId}
 DE-Kn41	https://primo.zbsport.dshs-koeln.de/discovery/fulldisplay?docid=alma{almaMmsId}
+DE-Lan1	https://hbz-rptu.primo.exlibrisgroup.com/discovery/search?vid=49HBZ_RTU:RPTU&tab=Everything&search_scope=MyInst_and_CI&lang=de&query=any,contains,{almaMmsId}
