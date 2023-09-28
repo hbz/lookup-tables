@@ -71,7 +71,6 @@ DE-98	http://www.medpilot.de/?ID={hbzid}
 DE-107	https://kat.lbz-rlp.de/webOPACClient.lbzsis/start.do?Query=0010=%22{hbzid}%22
 DE-121	https://www.dshs-koeln.de/aleph/F?func=item-cen-2&doc_library=STR01&doc_001_number={hbzid}&local_base=STR01
 DE-290	https://www.ub.tu-dortmund.de/webOPACClient/start.do?Query=0010=%22{hbzid}%22
-DE-385	http://primo.kobv.de/primo_library/libweb/action/dlSearch.do?vid=TRI_UB_I&institution=TRI_UB_I&search_scope=localude&bulkSize=10&lang=ger&indx=1&onCampus=false&query=any,contains,{hbzid}
 DE-386	https://opac.ub.uni-kl.de/F?func=item-cen-2&doc_library=KLU01&doc_001_number={hbzid}
 DE-465	https://primo.uni-due.de/discovery/search?query=any,contains,{hbzid}&tab=Everything&search_scope=MyInst_and_CI_custom&vid=49HBZ_UDE:UDE&offset=0
 DE-466	https://katalog.ub.uni-paderborn.de/local/s?sr%5Bq,any%5D={hbzid}
