@@ -72,7 +72,7 @@ DE-6-A	https://hbz-ulbms.primo.exlibrisgroup.com/discovery/search?query=any,cont
 DE-6-M	https://hbz-ulbms.primo.exlibrisgroup.com/discovery/search?query=any,contains,{almaMmsId}&tab=Everything&search_scope=MyInst_and_CI&vid=49HBZ_ULM:VU2&offset=0
 DE-6-N	https://hbz-ulbms.primo.exlibrisgroup.com/discovery/search?query=any,contains,{almaMmsId}&tab=Everything&search_scope=MyInst_and_CI&vid=49HBZ_ULM:VU2&offset=0
 DE-6-Z	https://hbz-ulbms.primo.exlibrisgroup.com/discovery/search?query=any,contains,{almaMmsId}&tab=Everything&search_scope=MyInst_and_CI&vid=49HBZ_ULM:VU2&offset=0
-DE-61  https://katalog.ulb.hhu.de/Search/Results?lookfor=id_marc_001_txt:{almaMmsId}
+DE-61	https://katalog.ulb.hhu.de/Search/Results?lookfor=id_marc_001_txt:{almaMmsId}
 DE-82	https://katalog.ub.rwth-aachen.de/permalink/49HBZ_UBA/kloccf/alma{almaMmsId}
 DE-98	https://www.livivo.de/doc/B{almaMmsId}
 DE-Hag4	https://kai.fh-swf.de/permalink/49HBZ_FSW/ou32r9/alma{almaMmsId}
