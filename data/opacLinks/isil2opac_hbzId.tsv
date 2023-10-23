@@ -28,7 +28,6 @@ DE-A96	https://fhb-aachen.digibib.net/search/katalog/record/(DE-605){hbzid}
 DE-Bi10	https://fhb-bielefeld.digibib.net/search/katalog/record/(DE-605){hbzid}
 DE-Bm1	https://thga.digibib.net/search/katalog/record/(DE-605){hbzid}
 DE-Bm40	https://hsb-bochum.digibib.net/search/katalog/record/(DE-605){hbzid}
-DE-Dm13	https://hbz-fdo.primo.exlibrisgroup.com/discovery/search?query=any,contains,{hbzid}&tab=Everything&search_scope=MyInst_and_CI&vid=49HBZ_FDO:VU1&lang=de&offset=0
 DE-Due62	https://hs-duesseldorf.digibib.net/search/katalog/record/(DE-605){hbzid}
 DE-Kn28	https://katalog.dombibliothek-koeln.de/F/?local_base=edk01&find_code=IDN&request={hbzid}&func=find-b
 DE-Kn38	https://hfmt-koeln.digibib.net/search/katalog/record/58:{hbzid}

@@ -12,6 +12,7 @@ DE-6	https://hbz-ulbms.primo.exlibrisgroup.com/discovery/search?query=any,contai
 DE-61	https://katalog.ulb.hhu.de/Search/Results?lookfor=id_marc_001_txt:{almaMmsId}
 DE-82	https://katalog.ub.rwth-aachen.de/permalink/49HBZ_UBA/kloccf/alma{almaMmsId}
 DE-98	https://www.livivo.de/doc/B{almaMmsId}
+DE-Dm13	https://hbz-fdo.primo.exlibrisgroup.com/permalink/49HBZ_FDO/k375rg/alma{almaMmsId}
 DE-Hag4	https://kai.fh-swf.de/permalink/49HBZ_FSW/ou32r9/alma{almaMmsId}
 DE-Kn3	https://katalog.ub.uni-koeln.de/portal/search.html?num=20&page=1&l=de&srt=year_desc&tab=books&hbzid={almaMmsId}&fdb=uni 
 DE-Kn41	https://primo.zbsport.dshs-koeln.de/permalink/49HBZ_ZBS/18h80sa/alma{almaMmsId}
