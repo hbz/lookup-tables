@@ -45,6 +45,15 @@ MainLibraryCode+AlmaSuppressedLocations	status
 49HBZ_RHW+KAM PFL	suppressed
 49HBZ_RHW+KLE AFL	suppressed
 49HBZ_RHW+KLE PFL	suppressed
+49HBZ_RTU+AUS12	suppressed
+49HBZ_RTU+AUS14	suppressed
+49HBZ_RTU+AUS2	suppressed
+49HBZ_RTU+AUS32	suppressed
+49HBZ_RTU+AUS36	suppressed
+49HBZ_RTU+AUS42	suppressed
+49HBZ_RTU+AUS48	suppressed
+49HBZ_RTU+AUS54	suppressed
+49HBZ_RTU+AUSLD	suppressed
 49HBZ_RUW+ILL	suppressed
 49HBZ_RUW+SF_MH	suppressed
 49HBZ_RUW+UNASSIGNED	suppressed
