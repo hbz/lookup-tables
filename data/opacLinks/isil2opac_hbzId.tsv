@@ -4,7 +4,7 @@ DE-107	https://lbz-rlp.digibib.net/search/katalog/record/(DE-605){hbzid}
 DE-1105	https://bibopac2.rac.hs-koblenz.de/webOPACClient-Remagen/start.do?Query=0010=%22{hbzid}%22
 DE-1116	https://opac.hwg-lu.de/alipac/-/item-local?BASE=B-TIT&VID={hbzid}
 DE-1156	https://folkwang-uni.digibib.net/search/katalog/record/56:{hbzid}
-DE-121  https://aleph.zbsport.de/F/?local_base=str01&find_code=IDN&request={hbzid}&func=find-b
+DE-121	https://aleph.zbsport.de/F/?local_base=str01&find_code=IDN&request={hbzid}&func=find-b
 DE-1383	https://hsb-rhein-waal.digibib.net/search/katalog/record/(DE-605){hbzid}
 DE-1383a	https://hsb-rhein-waal.digibib.net/search/katalog/record/(DE-605){hbzid}
 DE-1393	https://hsb-ruhr-west.digibib.net/search/katalog/record/(DE-605){hbzid}
