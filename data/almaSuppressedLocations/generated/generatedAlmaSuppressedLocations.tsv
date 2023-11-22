@@ -36,11 +36,17 @@ MainLibraryCode+AlmaSuppressedLocations	status
 49HBZ_HBI+ILL	suppressed
 49HBZ_HBI+LAM_ZSReg	suppressed
 49HBZ_HBO+OUT_RS_REQ	suppressed
+49HBZ_HHL+Dep1_LP	suppressed
+49HBZ_HHL+Dep1	suppressed
+49HBZ_HHL+Dep2_LP	suppressed
+49HBZ_HHL+Dep2	suppressed
+49HBZ_HHL+VER	suppressed
 49HBZ_HSD+AusS	suppressed
 49HBZ_HSN+ILL	suppressed
 49HBZ_OWL+ILL	suppressed
 49HBZ_PAD+LL	suppressed
 49HBZ_PAD+MI	suppressed
+49HBZ_PAD+UNASSIGNED	suppressed
 49HBZ_RHW+KAM AFL	suppressed
 49HBZ_RHW+KAM PFL	suppressed
 49HBZ_RHW+KLE AFL	suppressed
