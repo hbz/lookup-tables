@@ -551,6 +551,7 @@ MainLibraryCode+AlmaSuppressedLocations	status
 49HBZ_ULM+DSAC_AUSGE	suppressed
 49HBZ_ULM+EHRE_AUSGE	suppressed
 49HBZ_ULM+ENGL_AUSGE	suppressed
+49HBZ_ULM+ENGL_BDNG	suppressed
 49HBZ_ULM+ETHN_AUSGE	suppressed
 49HBZ_ULM+EVT_AUSGE	suppressed
 49HBZ_ULM+FBH_AUSGE	suppressed
@@ -563,7 +564,6 @@ MainLibraryCode+AlmaSuppressedLocations	status
 49HBZ_ULM+HLS_AUSGE	suppressed
 49HBZ_ULM+HMB_AUSGE	suppressed
 49HBZ_ULM+IJD_AUSGE	suppressed
-49HBZ_ULM+INDO_AUSGE	suppressed
 49HBZ_ULM+INTF_AUSGE	suppressed
 49HBZ_ULM+ISTG_AUSGE	suppressed
 49HBZ_ULM+ITM_AUSGE	suppressed
@@ -578,6 +578,7 @@ MainLibraryCode+AlmaSuppressedLocations	status
 49HBZ_ULM+MATH_AUSGE	suppressed
 49HBZ_ULM+MED_AUSGE	suppressed
 49HBZ_ULM+MED_BDINGE	suppressed
+49HBZ_ULM+MED_BDINGT	suppressed
 49HBZ_ULM+MED_EASYS	suppressed
 49HBZ_ULM+MED_LSSFS	suppressed
 49HBZ_ULM+MED_TABL	suppressed
@@ -595,7 +596,6 @@ MainLibraryCode+AlmaSuppressedLocations	status
 49HBZ_ULM+RAUM_AUSGE	suppressed
 49HBZ_ULM+RHB_AUSGE	suppressed
 49HBZ_ULM+ROSL_AUSGE	suppressed
-49HBZ_ULM+RS_ILL	suppressed
 49HBZ_ULM+RWS1_AUSGE	suppressed
 49HBZ_ULM+RWS1_SFS	suppressed
 49HBZ_ULM+RWS2_AUSGE	suppressed
@@ -614,7 +614,6 @@ MainLibraryCode+AlmaSuppressedLocations	status
 49HBZ_ULM+ZB_TAGAL	suppressed
 49HBZ_ULM+ZB_ZUGKT	suppressed
 49HBZ_ULM+ZRB_AUSGE	suppressed
-49HBZ_ULM+ZUP_AUSGE	suppressed
 49HBZ_ULM+ZYPE_AUSGE	suppressed
 49HBZ_WHS+08	suppressed
 49HBZ_WHS+28	suppressed
