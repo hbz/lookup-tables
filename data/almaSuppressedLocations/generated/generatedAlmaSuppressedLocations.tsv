@@ -47,6 +47,9 @@ MainLibraryCode+AlmaSuppressedLocations	status
 49HBZ_HHL+VER	suppressed
 49HBZ_HSD+AusS	suppressed
 49HBZ_HSN+ILL	suppressed
+49HBZ_LBZ+RES_SHARE_PLB	suppressed
+49HBZ_LBZ+RES_SHARE	suppressed
+49HBZ_LBZ+RES_SHARE_ZWB	suppressed
 49HBZ_OWL+ILL	suppressed
 49HBZ_PAD+LL	suppressed
 49HBZ_PAD+MI	suppressed
