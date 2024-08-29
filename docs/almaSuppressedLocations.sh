@@ -24,7 +24,7 @@ for fn in $(ls); do
 			echo zeile: "$rows"
 			libraryCode=$(echo "$rows" | cut -f1)
 			isil=$(echo "$rows" | cut -f2)
-			echo ${MAIN_LIBRARY_CODE}$(echo "$fn"|cut -d '.' -f1)+""${libraryCode}"	"${isil}"" >> $GENERATED_FILE.tmp
+			echo "${MAIN_LIBRARY_CODE}$(echo "$fn"|cut -d '.' -f1)+${libraryCode}	${isil}" >> $GENERATED_FILE.tmp
 	done
 done
 
