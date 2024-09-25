@@ -18,13 +18,13 @@ cd ../data/almaSuppressedLocations
 rm $GENERATED_FILE.tmp
 
 for fn in $(ls); do
-	echo $fn
+	echo "$fn"
 	IFS=$'\n' # read whole lines
-	for rows in $(cat $fn); do
-			echo "zeile: $rows"
-			libraryCode=$(echo $rows | cut -f1)
-			isil=$(echo $rows | cut -f2)
-			echo "${MAIN_LIBRARY_CODE}$(echo $fn|cut -d '.' -f1)+${libraryCode}	${isil}" >> $GENERATED_FILE.tmp
+	for rows in $(cat "$fn"); do
+			echo zeile: "$rows"
+			libraryCode=$(echo "$rows" | cut -f1)
+			isil=$(echo "$rows" | cut -f2)
+			echo "${MAIN_LIBRARY_CODE}$(echo "$fn"|cut -d '.' -f1)+${libraryCode}	${isil}" >> $GENERATED_FILE.tmp
 	done
 done
 

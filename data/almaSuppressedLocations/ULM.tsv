@@ -15,6 +15,7 @@ DMAT_AUSGE	suppressed
 DSAC_AUSGE	suppressed
 EHRE_AUSGE	suppressed
 ENGL_AUSGE	suppressed
+ENGL_BDNG	suppressed
 ETHN_AUSGE	suppressed
 EVT_AUSGE	suppressed
 FBH_AUSGE	suppressed
@@ -27,7 +28,6 @@ GRIE_AUSGE	suppressed
 HLS_AUSGE	suppressed
 HMB_AUSGE	suppressed
 IJD_AUSGE	suppressed
-INDO_AUSGE	suppressed
 INTF_AUSGE	suppressed
 ISTG_AUSGE	suppressed
 ITM_AUSGE	suppressed
@@ -42,6 +42,7 @@ LEIB_AUSGE	suppressed
 MATH_AUSGE	suppressed
 MED_AUSGE	suppressed
 MED_BDINGE	suppressed
+MED_BDINGT	suppressed
 MED_EASYS	suppressed
 MED_LSSFS	suppressed
 MED_TABL	suppressed
@@ -59,7 +60,6 @@ PSY_AUSGE	suppressed
 RAUM_AUSGE	suppressed
 RHB_AUSGE	suppressed
 ROSL_AUSGE	suppressed
-RS_ILL	suppressed
 RWS1_AUSGE	suppressed
 RWS1_SFS	suppressed
 RWS2_AUSGE	suppressed
@@ -78,5 +78,4 @@ ZB_LSSFS	suppressed
 ZB_TAGAL	suppressed
 ZB_ZUGKT	suppressed
 ZRB_AUSGE	suppressed
-ZUP_AUSGE	suppressed
 ZYPE_AUSGE	suppressed
