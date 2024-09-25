@@ -1,6 +1,6 @@
 DE-1044	https://bib-discover.bib.h-brs.de/discovery/search?query=any,contains,{almaMmsId}&tab=Everything&search_scope=1044_and_CI&vid=49HBZ_BRS:1044&offset=0
-DE-1871  https://hbz-hhl.primo.exlibrisgroup.com/discovery/search?query=any,contains,{almaMmsId}&tab=LibraryCatalog&search_scope=MyInstitution&vid=49HBZ_HHL:VU1&offset=0
-DE-1926  https://hbz-hhl.primo.exlibrisgroup.com/discovery/search?query=any,contains,{almaMmsId}&tab=LibraryCatalog&search_scope=MyInstitution&vid=49HBZ_HHL:VU1&offset=0
+DE-1871	https://hbz-hhl.primo.exlibrisgroup.com/discovery/search?query=any,contains,{almaMmsId}&tab=LibraryCatalog&search_scope=MyInstitution&vid=49HBZ_HHL:VU1&offset=0
+DE-1926	https://hbz-hhl.primo.exlibrisgroup.com/discovery/search?query=any,contains,{almaMmsId}&tab=LibraryCatalog&search_scope=MyInstitution&vid=49HBZ_HHL:VU1&offset=0
 DE-290	https://katalog.ub.tu-dortmund.de/id/ir01388a:ubd.lobid:{almaMmsId}
 DE-294	https://hbz-ubo.primo.exlibrisgroup.com/permalink/49HBZ_UBO/mnkbqv/alma{almaMmsId}
 DE-38	https://katalog.ub.uni-koeln.de/portal/search.html?num=20&page=1&l=de&srt=year_desc&tab=books&hbzid={almaMmsId}&fdb=uni
