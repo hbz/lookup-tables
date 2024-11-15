@@ -1,11 +1,11 @@
-	AUS02	suppressed
-	AUS12	suppressed
-	AUS14	suppressed
+R3002	AUS02	suppressed
+R3012	AUS12	suppressed
+R3014	AUS14	suppressed
 	AUS2	suppressed
-	AUS32	suppressed
-	AUS36	suppressed
-	AUS42	suppressed
-	AUS48	suppressed
-	AUS54	suppressed
-	AUSLD	suppressed
-	NFSLD	suppressed
+R3032	AUS32	suppressed
+R3036	AUS36	suppressed
+R3042	AUS42	suppressed
+R3048	AUS48	suppressed
+R3054	AUS54	suppressed
+RL002	AUSLD	suppressed
+RL002	NFSLD	suppressed

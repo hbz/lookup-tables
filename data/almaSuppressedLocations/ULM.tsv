@@ -1,81 +1,80 @@
 	AEKO_AUSGE	suppressed
-	ALKU_AUSGE	suppressed
+ALKU	ALKU_AUSGE	suppressed
 	AORI_AUSGE	suppressed
-	APHY_AUSGE	suppressed
-	ARAB_AUSGE	suppressed
-	ARCH_AUSGE	suppressed
-	BEK_AUSGE	suppressed
-	BEK_SFS	suppressed
+APHY	APHY_AUSGE	suppressed
+ARAB	ARAB_AUSGE	suppressed
+ARCH	ARCH_AUSGE	suppressed
+BEK	BEK_AUSGE	suppressed
+BEK	BEK_SFS	suppressed
 	BYNE_AUSGE	suppressed
 	CASE_AUSGE	suppressed
-	CHEM_AUSGE	suppressed
-	CRZI_AUSGE	suppressed
-	DBIO_AUSGE	suppressed
+CHEM	CHEM_AUSGE	suppressed
+CRZI	CRZI_AUSGE	suppressed
+DBIO	DBIO_AUSGE	suppressed
 	DMAT_AUSGE	suppressed
 	DSAC_AUSGE	suppressed
-	EHRE_AUSGE	suppressed
-	ENGL_AUSGE	suppressed
-	ENGL_BDNG	suppressed
+EHRE	EHRE_AUSGE	suppressed
+ENGL	ENGL_AUSGE	suppressed
+ENGL	ENGL_BDNG	suppressed
 	ETHN_AUSGE	suppressed
-	EVT_AUSGE	suppressed
-	FBH_AUSGE	suppressed
-	FID_AUSGE	suppressed
-	GEOB_AUSGE	suppressed
-	GEOW_AUSGE	suppressed
-	GERM_AUSGE	suppressed
+EVT	EVT_AUSGE	suppressed
+FBH	FBH_AUSGE	suppressed
+FID	FID_AUSGE	suppressed
+GEOB	GEOB_AUSGE	suppressed
+GEOW	GEOW_AUSGE	suppressed
+GERM	GERM_AUSGE	suppressed
 	GPHY_AUSGE	suppressed
-	GRIE_AUSGE	suppressed
-	HLS_AUSGE	suppressed
-	HMB_AUSGE	suppressed
-	IJD_AUSGE	suppressed
-	INTF_AUSGE	suppressed
-	ISTG_AUSGE	suppressed
-	ITM_AUSGE	suppressed
+GRIE	GRIE_AUSGE	suppressed
+HLS	HLS_AUSGE	suppressed
+HMB	HMB_AUSGE	suppressed
+IJD	IJD_AUSGE	suppressed
+INTF	INTF_AUSGE	suppressed
+ISTG	ISTG_AUSGE	suppressed
+ITM	ITM_AUSGE	suppressed
 	JUED_AUSGE	suppressed
-	KATD_AUSGE	suppressed
-	KATH_AUSGE	suppressed
-	KATJ_AUSGE	suppressed
+KATD	KATD_AUSGE	suppressed
+KATH	KATH_AUSGE	suppressed
+KATJ	KATJ_AUSGE	suppressed
 	KULT_AUSGE	suppressed
-	KWI_AUSGE	suppressed
-	LAT_AUSGE	suppressed
+KWI	KWI_AUSGE	suppressed
+LAT	LAT_AUSGE	suppressed
 	LEIB_AUSGE	suppressed
-	MATH_AUSGE	suppressed
-	MED_AUSGE	suppressed
-	MED_BDINGE	suppressed
-	MED_BDINGT	suppressed
-	MED_EASYS	suppressed
-	MED_LSSFS	suppressed
-	MED_TABL	suppressed
+MATH	MATH_AUSGE	suppressed
+MED	MED_AUSGE	suppressed
+MED	MED_BDINGT	suppressed
+MED	MED_EASYS	suppressed
+MED	MED_LSSFS	suppressed
+MED	MED_TABL	suppressed
 	MEGT_AUSGE	suppressed
-	MUHO_AUSGE	suppressed
+MUHO	MUHO_AUSGE	suppressed
 	MUNA_AUSGE	suppressed
-	MUPA_AUSGE	suppressed
-	MUWI_AUSGE	suppressed
-	NIED_AUSGE	suppressed
-	NORD_AUSGE	suppressed
+MUPA	MUPA_AUSGE	suppressed
+MUWI	MUWI_AUSGE	suppressed
+NIED	NIED_AUSGE	suppressed
+NORD	NORD_AUSGE	suppressed
 	PHAR_AUSGE	suppressed
-	PHIL_AUSGE	suppressed
+PHIL	PHIL_AUSGE	suppressed
 	PHY_AUSGE	suppressed
-	PSY_AUSGE	suppressed
+PSY	PSY_AUSGE	suppressed
 	RAUM_AUSGE	suppressed
-	RHB_AUSGE	suppressed
-	ROSL_AUSGE	suppressed
-	RWS1_AUSGE	suppressed
-	RWS1_SFS	suppressed
-	RWS2_AUSGE	suppressed
-	SINO_AUSGE	suppressed
-	SOZ_AUSGE	suppressed
-	SOZ_LSSFS	suppressed
-	SPOR_AUSGE	suppressed
+RHB	RHB_AUSGE	suppressed
+ROSL	ROSL_AUSGE	suppressed
+RWS1	RWS1_AUSGE	suppressed
+RWS1	RWS1_SFS	suppressed
+RWS2	RWS2_AUSGE	suppressed
+SINO	SINO_AUSGE	suppressed
+SOZ	SOZ_AUSGE	suppressed
+SOZ	SOZ_LSSFS	suppressed
+SPOR	SPOR_AUSGE	suppressed
 	SPRA_AUSGE	suppressed
 	TPHY_AUSGE	suppressed
-	WINF_AUSGE	suppressed
-	WIWI_AUSGE	suppressed
-	WIWI_SFS	suppressed
-	ZB_AUSGE	suppressed
-	ZB_LBMAUS	suppressed
-	ZB_LSSFS	suppressed
-	ZB_TAGAL	suppressed
-	ZB_ZUGKT	suppressed
-	ZRB_AUSGE	suppressed
+WINF	WINF_AUSGE	suppressed
+WIWI	WIWI_AUSGE	suppressed
+WIWI	WIWI_SFS	suppressed
+ZB	ZB_AUSGE	suppressed
+ZB	ZB_LBMAUS	suppressed
+ZB	ZB_LSSFS	suppressed
+ZB	ZB_TAGAL	suppressed
+ZB	ZB_ZUGKT	suppressed
+ZRB	ZRB_AUSGE	suppressed
 	ZYPE_AUSGE	suppressed

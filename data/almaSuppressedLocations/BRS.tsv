@@ -1,5 +1,5 @@
-	RHB_DG	suppressed
-	RHB_NONMED	suppressed
-	STA_DG	suppressed
-	STA_ILL	suppressed
-	STA_NONMED	suppressed
+RHB	RHB_DG	suppressed
+RHB	RHB_NONMED	suppressed
+STA	STA_DG	suppressed
+RES_SHARE	STA_ILL	suppressed
+STA	STA_NONMED	suppressed

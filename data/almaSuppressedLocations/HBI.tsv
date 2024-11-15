@@ -1,12 +1,12 @@
-	Auss	suppressed
-	BiblVerw	suppressed
-	CB_ZSReg	suppressed
-	CM_Auss	suppressed
-	CM_Schran	suppressed
-	CM_ZSReg	suppressed
-	Dauerausl	suppressed
+40	Auss	suppressed
+40	BiblVerw	suppressed
+40	CB_ZSReg	suppressed
+60	CM_Auss	suppressed
+60	CM_Schran	suppressed
+60	CM_ZSReg	suppressed
+40	Dauerausl	suppressed
 	ILL	suppressed
 	ILL_CB	suppressed
 	ILL_CM	suppressed
-	LAM_Auss	suppressed
-	LAM_ZSReg	suppressed
+10	LAM_Auss	suppressed
+10	LAM_ZSReg	suppressed

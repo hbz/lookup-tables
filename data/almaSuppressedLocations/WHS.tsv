@@ -1,6 +1,7 @@
-	08	suppressed
-	28	suppressed
-	38	suppressed
+GE	08	suppressed
+BOH	28	suppressed
+RE	38	suppressed
 	FB	suppressed
-	NBB	suppressed
+GE	NBB	suppressed
+RE	NBB	suppressed
 	VB	suppressed
