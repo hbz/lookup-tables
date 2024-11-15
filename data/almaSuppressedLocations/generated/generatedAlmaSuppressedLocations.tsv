@@ -1,4 +1,4 @@
-MainLibraryCode+AlmaSuppressedLocations	status
+MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_BIE+Abgesetzt	suppressed
 49HBZ_BIE+Platz	suppressed
 49HBZ_BIE+Verlust	suppressed
