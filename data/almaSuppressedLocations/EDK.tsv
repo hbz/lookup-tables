@@ -1,10 +1,12 @@
-B-INT	suppressed
-D-BB	suppressed
-D-INT	suppressed
-D-RET	suppressed
-UNASSIGNED	suppressed
-W-DG	suppressed
-W-DUE	suppressed
-W-INT	suppressed
-W-PAU	suppressed
-W-RET	suppressed
+BDA01	B-INT	suppressed
+ED001	D-BB	suppressed
+ED001	D-INT	suppressed
+ED001	D-RET	suppressed
+BDA01	UNASSIGNED	suppressed
+ED001	UNASSIGNED	suppressed
+T0006	UNASSIGNED	suppressed
+O9022	W-DG	suppressed
+O9022	W-DUE	suppressed
+O9022	W-INT	suppressed
+O9022	W-PAU	suppressed
+O9022	W-RET	suppressed

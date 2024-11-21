@@ -1,5 +1,5 @@
-EFS_NonMed	suppressed
-EFS_Verw	suppressed
-MOP_NonMed	suppressed
-OUT_RS_REQ	suppressed
-SON_NonMed	suppressed
+	EFS_NonMed	suppressed
+EFS	EFS_Verw	suppressed
+	MOP_NonMed	suppressed
+	OUT_RS_REQ	suppressed
+	SON_NonMed	suppressed

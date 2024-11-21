@@ -1,8 +1,8 @@
-47	suppressed
-56	suppressed
-AE	suppressed
-MAK	suppressed
-NB	suppressed
-OUT_RS_ZB	suppressed
-VERBR	suppressed
-VERL	suppressed
+X0001	47	suppressed
+X0099	56	suppressed
+X0001	AE	suppressed
+X0099	MAK	suppressed
+X0099	NB	suppressed
+RES_SHARE	OUT_RS_ZB	suppressed
+X0001	VERBR	suppressed
+X0099	VERL	suppressed

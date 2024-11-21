@@ -1,875 +1,883 @@
-BAB SemApp	suppressed
-BAB Verm-Auss	suppressed
-BHA Archiv	suppressed
-BHA Ausbildung	suppressed
-BHA Best-Aufb	suppressed
-BHA Direktion	suppressed
-BHA Geschichte	suppressed
-BHA Philosoph	suppressed
-BHA Physik	suppressed
-BHA Theologie	suppressed
-BHA Wirtschaft	suppressed
-BR SemApp	suppressed
-BR Verm-Auss	suppressed
-Bde-in-Erw	suppressed
-CET	suppressed
-CET_InnoL	suppressed
-Dez_Bau	suppressed
-Direktion	suppressed
-DoBuS	suppressed
-DoKoLL	suppressed
-EFB SchliessF	suppressed
-EFB SemApp	suppressed
-EFB Verm-Auss	suppressed
-Funken	suppressed
-FunkenReha	suppressed
-FunkenTheo	suppressed
-HA CET	suppressed
-HA CET_InnoL	suppressed
-HA Dez_Bau	suppressed
-HA DoBuS	suppressed
-HA DoKoLL	suppressed
-HA Funken	suppressed
-HA FunkenReha	suppressed
-HA FunkenTheo	suppressed
-HA HDZ	suppressed
-HA HRZ	suppressed
-HA HSP	suppressed
-HA IFS	suppressed
-HA K4D	suppressed
-HA LH0003	suppressed
-HA LH0007	suppressed
-HA LH0024	suppressed
-HA LH0028	suppressed
-HA LH0030W	suppressed
-HA LH0032	suppressed
-HA LH0033	suppressed
-HA LH0048	suppressed
-HA LH0067	suppressed
-HA LH0069	suppressed
-HA LH0072	suppressed
-HA LH0072P	suppressed
-HA LH0075	suppressed
-HA LH0079	suppressed
-HA LH0084	suppressed
-HA LH0085	suppressed
-HA LH0087	suppressed
-HA LH0090	suppressed
-HA LH0093	suppressed
-HA LH0095	suppressed
-HA LH0097	suppressed
-HA LH0101	suppressed
-HA LH0102	suppressed
-HA LH0102P	suppressed
-HA LH0105	suppressed
-HA LH0105P	suppressed
-HA LH0110	suppressed
-HA LH0110P	suppressed
-HA LH0112	suppressed
-HA LH0112P	suppressed
-HA LH0132	suppressed
-HA LH0132P	suppressed
-HA LH0150	suppressed
-HA LH0151	suppressed
-HA LH0155	suppressed
-HA LH0157P	suppressed
-HA LH0173	suppressed
-HA LH0176	suppressed
-HA LH0177	suppressed
-HA LH0180	suppressed
-HA LH0182	suppressed
-HA LH0183	suppressed
-HA LH0184	suppressed
-HA LH0185	suppressed
-HA LH0186	suppressed
-HA LH0188	suppressed
-HA LH0200	suppressed
-HA LH0202	suppressed
-HA LH0202S	suppressed
-HA LH0203	suppressed
-HA LH0203S	suppressed
-HA LH0204	suppressed
-HA LH0209	suppressed
-HA LH0210	suppressed
-HA LH0217	suppressed
-HA LH0217P	suppressed
-HA LH0220	suppressed
-HA LH0230	suppressed
-HA LH0245	suppressed
-HA LH0245P	suppressed
-HA LH0302	suppressed
-HA LH0305	suppressed
-HA LH0305P	suppressed
-HA LH0310	suppressed
-HA LH0319	suppressed
-HA LH0319P	suppressed
-HA LH0320	suppressed
-HA LH0320P	suppressed
-HA LH0323	suppressed
-HA LH0323P	suppressed
-HA LH0324	suppressed
-HA LH0324P	suppressed
-HA LH0417	suppressed
-HA LH0418	suppressed
-HA LH0426	suppressed
-HA LH0430	suppressed
-HA LH0453	suppressed
-HA LH0454	suppressed
-HA LH0456	suppressed
-HA LH0460	suppressed
-HA LH0475	suppressed
-HA LH0480	suppressed
-HA LH0485	suppressed
-HA LH0490	suppressed
-HA LH0500	suppressed
-HA LH0501	suppressed
-HA LH0501S	suppressed
-HA LH0502	suppressed
-HA LH0504P	suppressed
-HA LH0506	suppressed
-HA LH0508S	suppressed
-HA LH0509	suppressed
-HA LH0512	suppressed
-HA LH0517	suppressed
-HA LH0822	suppressed
-HA LH0900	suppressed
-HA LH0902	suppressed
-HA LH1208	suppressed
-HA LH1280	suppressed
-HA LH1300P	suppressed
-HA LH1310	suppressed
-HA LH1310P	suppressed
-HA LH1317P	suppressed
-HA LH1329	suppressed
-HA LH1342	suppressed
-HA LH1354	suppressed
-HA LH1354P	suppressed
-HA LH1372	suppressed
-HA LH1385	suppressed
-HA LH1401	suppressed
-HA LH1402	suppressed
-HA LH1453	suppressed
-HA LH1457	suppressed
-HA LH1464	suppressed
-HA LH1512	suppressed
-HA LH1515	suppressed
-HA LH1603	suppressed
-HA LH1624	suppressed
-HA LH2000	suppressed
-HA LH2001	suppressed
-HA LH2002	suppressed
-HA LH2003	suppressed
-HA LH2004	suppressed
-HA LH2005	suppressed
-HA LH2006	suppressed
-HA LH2007	suppressed
-HA LH2008	suppressed
-HA LH2009	suppressed
-HA LH2012	suppressed
-HA LH2013	suppressed
-HA LH2014	suppressed
-HA LH2015	suppressed
-HA LH2016	suppressed
-HA LH2017	suppressed
-HA LH2050	suppressed
-HA LH2051	suppressed
-HA LH2052	suppressed
-HA LH2053	suppressed
-HA LH2054	suppressed
-HA LH2055S	suppressed
-HA LH2057	suppressed
-HA LH2058	suppressed
-HA LH2060	suppressed
-HA LH2062	suppressed
-HA LH2063	suppressed
-HA LH2064	suppressed
-HA LH2065	suppressed
-HA LH2066	suppressed
-HA LH2067	suppressed
-HA LH2068	suppressed
-HA LH2100	suppressed
-HA LH2101	suppressed
-HA LH2103	suppressed
-HA LH2104	suppressed
-HA LH2106	suppressed
-HA LH2107	suppressed
-HA LH2108	suppressed
-HA LH2109	suppressed
-HA LH2110	suppressed
-HA LH2111	suppressed
-HA LH2112	suppressed
-HA LH2113	suppressed
-HA LH2114	suppressed
-HA LH2115	suppressed
-HA LH2116	suppressed
-HA LH2117	suppressed
-HA LH2150	suppressed
-HA LH2150P	suppressed
-HA LH2153	suppressed
-HA LH2156	suppressed
-HA LH2157	suppressed
-HA LH2158	suppressed
-HA LH2159	suppressed
-HA LH2160	suppressed
-HA LH2162	suppressed
-HA LH2163	suppressed
-HA LH2165	suppressed
-HA LH2166	suppressed
-HA LH2167	suppressed
-HA LH2168	suppressed
-HA LH2169	suppressed
-HA LH2170	suppressed
-HA LH2200	suppressed
-HA LH2202	suppressed
-HA LH2203	suppressed
-HA LH2204	suppressed
-HA LH2205	suppressed
-HA LH2206	suppressed
-HA LH2207	suppressed
-HA LH2208	suppressed
-HA LH2209	suppressed
-HA LH2210	suppressed
-HA LH2211	suppressed
-HA LH2252	suppressed
-HA LH2253	suppressed
-HA LH2254	suppressed
-HA LH2255P	suppressed
-HA LH2256P	suppressed
-HA LH2257	suppressed
-HA LH2258	suppressed
-HA LH2259	suppressed
-HA LH2260	suppressed
-HA LH2261	suppressed
-HA LH2262	suppressed
-HA LH2263	suppressed
-HA LH2300	suppressed
-HA LH2300S	suppressed
-HA LH2301	suppressed
-HA LH2301P	suppressed
-HA LH2302	suppressed
-HA LH2303	suppressed
-HA LH2304	suppressed
-HA LH2305	suppressed
-HA LH2306	suppressed
-HA LH2307	suppressed
-HA LH2309	suppressed
-HA LH2310	suppressed
-HA LH2311	suppressed
-HA LH2312	suppressed
-HA LH2313	suppressed
-HA LH2314	suppressed
-HA LH2315	suppressed
-HA LH2316	suppressed
-HA LH2350	suppressed
-HA LH2350P	suppressed
-HA LH2351	suppressed
-HA LH2351P	suppressed
-HA LH2353	suppressed
-HA LH2354	suppressed
-HA LH2356	suppressed
-HA LH2357	suppressed
-HA LH2359	suppressed
-HA LH2360	suppressed
-HA LH2361	suppressed
-HA LH2362	suppressed
-HA LH2400	suppressed
-HA LH2401	suppressed
-HA LH2403	suppressed
-HA LH2404	suppressed
-HA LH2406	suppressed
-HA LH2407	suppressed
-HA LH2408	suppressed
-HA LH2409	suppressed
-HA LH2410	suppressed
-HA LH2411	suppressed
-HA LH2412	suppressed
-HA LH2413	suppressed
-HA LH2414	suppressed
-HA LH2415	suppressed
-HA LH2416	suppressed
-HA LH2417	suppressed
-HA LH2418	suppressed
-HA LH2419	suppressed
-HA LH2420	suppressed
-HA LH2421	suppressed
-HA LH2450	suppressed
-HA LH2452	suppressed
-HA LH2453	suppressed
-HA LH2454	suppressed
-HA LH2455	suppressed
-HA LH2457	suppressed
-HA LH2458P	suppressed
-HA LH2459	suppressed
-HA LH2461	suppressed
-HA LH2462	suppressed
-HA LH2464	suppressed
-HA LH2465	suppressed
-HA LH2466	suppressed
-HA LH2467	suppressed
-HA LH2468	suppressed
-HA LH2469	suppressed
-HA LH2470	suppressed
-HA LH2471	suppressed
-HA LH2472	suppressed
-HA LH2473	suppressed
-HA LH2501	suppressed
-HA LH2502	suppressed
-HA LH2504	suppressed
-HA LH2508	suppressed
-HA LH2509	suppressed
-HA LH2510	suppressed
-HA LH2511	suppressed
-HA LH2512	suppressed
-HA LH2514	suppressed
-HA LH2515	suppressed
-HA LH2517	suppressed
-HA LH2518	suppressed
-HA LH2519	suppressed
-HA LH2520	suppressed
-HA LH2521	suppressed
-HA LH2522	suppressed
-HA LH2524	suppressed
-HA LH2525	suppressed
-HA LH2550	suppressed
-HA LH2550P	suppressed
-HA LH2551	suppressed
-HA LH2551P	suppressed
-HA LH2552	suppressed
-HA LH2552P	suppressed
-HA LH2553	suppressed
-HA LH2554	suppressed
-HA LH2555	suppressed
-HA LH2558	suppressed
-HA LH2559	suppressed
-HA LH2561	suppressed
-HA LH2562	suppressed
-HA LH2563	suppressed
-HA LH2564	suppressed
-HA LH2565	suppressed
-HA LH2566	suppressed
-HA LH2567	suppressed
-HA LH2568	suppressed
-HA LH2569	suppressed
-HA LH2571	suppressed
-HA LH2572	suppressed
-HA LH2573	suppressed
-HA LH2574	suppressed
-HA LH2575	suppressed
-HA LH2600	suppressed
-HA LH2601	suppressed
-HA LH2601P	suppressed
-HA LH2602P	suppressed
-HA LH2603P	suppressed
-HA LH2604	suppressed
-HA LH2604P	suppressed
-HA LH2605	suppressed
-HA LH2606	suppressed
-HA LH2607	suppressed
-HA LH2608	suppressed
-HA LH2609	suppressed
-HA LH2610	suppressed
-HA LH2611	suppressed
-HA LH2612	suppressed
-HA LH2613	suppressed
-HA LH2614	suppressed
-HA LH2615	suppressed
-HA LH2616	suppressed
-HA LH2617	suppressed
-HA LH2618	suppressed
-HA LH2619	suppressed
-HA LH2621	suppressed
-HA LH2622	suppressed
-HA LH2623	suppressed
-HA LH2624	suppressed
-HA LH2625	suppressed
-HA LH2650	suppressed
-HA LH2651	suppressed
-HA LH2651P	suppressed
-HA LH2652	suppressed
-HA LH2653	suppressed
-HA LH2655	suppressed
-HA LH2656	suppressed
-HA LH2657	suppressed
-HA LH2658	suppressed
-HA LH2659	suppressed
-HA LH2660	suppressed
-HA LH2661	suppressed
-HA LH2662	suppressed
-HA LH2700	suppressed
-HA LH2702	suppressed
-HA LH2704	suppressed
-HA LH2706P	suppressed
-HA LH2707	suppressed
-HA LH2707P	suppressed
-HA LH2708	suppressed
-HA LH2709	suppressed
-HA LH2709P	suppressed
-HA LH2710P	suppressed
-HA LH2711P	suppressed
-HA LH2712	suppressed
-HA LH2713	suppressed
-HA LH2714	suppressed
-HA LH2715	suppressed
-HA LH2716	suppressed
-HA LH2717	suppressed
-HA LH2718	suppressed
-HA LH2719	suppressed
-HA LH2720	suppressed
-HA LH2721	suppressed
-HA LH2722	suppressed
-HA LH2723	suppressed
-HA LH2724	suppressed
-HA LH2725	suppressed
-HA LH2726	suppressed
-HA LH2750	suppressed
-HA LH2751	suppressed
-HA LH2753	suppressed
-HA LH2754	suppressed
-HA LH2755	suppressed
-HA LH2757	suppressed
-HA LH2758	suppressed
-HA LH2760	suppressed
-HA LH2850	suppressed
-HA LH2851	suppressed
-HA LH2852	suppressed
-HA PR_nwiss	suppressed
-HA Ref_Int	suppressed
-HA TU-Verw	suppressed
-HA ZHB_FS	suppressed
-HA ZHB_HD	suppressed
-HA ZHB_HF	suppressed
-HA ZHB_SB	suppressed
-HA ZfW300	suppressed
-HA ZfW400	suppressed
-HA itmc	suppressed
-HDZ	suppressed
-HRZ	suppressed
-HSP	suppressed
-IFS	suppressed
-K4D	suppressed
-LH0003	suppressed
-LH0007	suppressed
-LH0024	suppressed
-LH0028	suppressed
-LH0030W	suppressed
-LH0032	suppressed
-LH0033	suppressed
-LH0048	suppressed
-LH0067	suppressed
-LH0069	suppressed
-LH0072	suppressed
-LH0072P	suppressed
-LH0075	suppressed
-LH0079	suppressed
-LH0084	suppressed
-LH0085	suppressed
-LH0087	suppressed
-LH0090	suppressed
-LH0095	suppressed
-LH0097	suppressed
-LH0101	suppressed
-LH0102	suppressed
-LH0102P	suppressed
-LH0105	suppressed
-LH0105P	suppressed
-LH0110	suppressed
-LH0110P	suppressed
-LH0112	suppressed
-LH0112P	suppressed
-LH0132	suppressed
-LH0132P	suppressed
-LH0150	suppressed
-LH0151	suppressed
-LH0155	suppressed
-LH0157P	suppressed
-LH0176	suppressed
-LH0177	suppressed
-LH0180	suppressed
-LH0182	suppressed
-LH0183	suppressed
-LH0184	suppressed
-LH0185	suppressed
-LH0186	suppressed
-LH0188	suppressed
-LH0200	suppressed
-LH0202	suppressed
-LH0202S	suppressed
-LH0203	suppressed
-LH0203S	suppressed
-LH0204	suppressed
-LH0209	suppressed
-LH0210	suppressed
-LH0217	suppressed
-LH0217P	suppressed
-LH0220	suppressed
-LH0230	suppressed
-LH0245	suppressed
-LH0245P	suppressed
-LH0302	suppressed
-LH0305	suppressed
-LH0305P	suppressed
-LH0310	suppressed
-LH0319	suppressed
-LH0319P	suppressed
-LH0320	suppressed
-LH0320P	suppressed
-LH0323	suppressed
-LH0323P	suppressed
-LH0324	suppressed
-LH0324P	suppressed
-LH0417	suppressed
-LH0418	suppressed
-LH0426	suppressed
-LH0430	suppressed
-LH0453	suppressed
-LH0454	suppressed
-LH0456	suppressed
-LH0460	suppressed
-LH0475	suppressed
-LH0480	suppressed
-LH0485	suppressed
-LH0490	suppressed
-LH0500	suppressed
-LH0501	suppressed
-LH0501S	suppressed
-LH0502	suppressed
-LH0504P	suppressed
-LH0506	suppressed
-LH0508S	suppressed
-LH0509	suppressed
-LH0517	suppressed
-LH0822	suppressed
-LH0900	suppressed
-LH0902	suppressed
-LH1208	suppressed
-LH1280	suppressed
-LH1300P	suppressed
-LH1310	suppressed
-LH1310P	suppressed
-LH1317P	suppressed
-LH1329	suppressed
-LH1342	suppressed
-LH1372	suppressed
-LH1385	suppressed
-LH1401	suppressed
-LH1453	suppressed
-LH1457	suppressed
-LH1464	suppressed
-LH1512	suppressed
-LH1515	suppressed
-LH1603	suppressed
-LH1624	suppressed
-LH2000	suppressed
-LH2001	suppressed
-LH2002	suppressed
-LH2003	suppressed
-LH2004	suppressed
-LH2005	suppressed
-LH2006	suppressed
-LH2007	suppressed
-LH2008	suppressed
-LH2009	suppressed
-LH2012	suppressed
-LH2013	suppressed
-LH2014	suppressed
-LH2015	suppressed
-LH2050	suppressed
-LH2051	suppressed
-LH2052	suppressed
-LH2053	suppressed
-LH2054	suppressed
-LH2057	suppressed
-LH2058	suppressed
-LH2060	suppressed
-LH2062	suppressed
-LH2063	suppressed
-LH2064	suppressed
-LH2065	suppressed
-LH2066	suppressed
-LH2067	suppressed
-LH2068	suppressed
-LH2069	suppressed
-LH2070	suppressed
-LH2100	suppressed
-LH2101	suppressed
-LH2103	suppressed
-LH2104	suppressed
-LH2106	suppressed
-LH2107	suppressed
-LH2108	suppressed
-LH2109	suppressed
-LH2110	suppressed
-LH2111	suppressed
-LH2112	suppressed
-LH2113	suppressed
-LH2114	suppressed
-LH2115	suppressed
-LH2116	suppressed
-LH2117	suppressed
-LH2118	suppressed
-LH2119	suppressed
-LH2150	suppressed
-LH2150P	suppressed
-LH2153	suppressed
-LH2156	suppressed
-LH2157	suppressed
-LH2158	suppressed
-LH2159	suppressed
-LH2160	suppressed
-LH2162	suppressed
-LH2163	suppressed
-LH2165	suppressed
-LH2166	suppressed
-LH2167	suppressed
-LH2168	suppressed
-LH2169	suppressed
-LH2170	suppressed
-LH2171	suppressed
-LH2200	suppressed
-LH2202	suppressed
-LH2203	suppressed
-LH2204	suppressed
-LH2205	suppressed
-LH2206	suppressed
-LH2207	suppressed
-LH2208	suppressed
-LH2209	suppressed
-LH2210	suppressed
-LH2212	suppressed
-LH2213	suppressed
-LH2252	suppressed
-LH2253	suppressed
-LH2254	suppressed
-LH2255P	suppressed
-LH2256P	suppressed
-LH2257	suppressed
-LH2258	suppressed
-LH2259	suppressed
-LH2260	suppressed
-LH2261	suppressed
-LH2262	suppressed
-LH2263	suppressed
-LH2264	suppressed
-LH2300	suppressed
-LH2300S	suppressed
-LH2301	suppressed
-LH2301P	suppressed
-LH2302	suppressed
-LH2303	suppressed
-LH2304	suppressed
-LH2305	suppressed
-LH2306	suppressed
-LH2307	suppressed
-LH2309	suppressed
-LH2310	suppressed
-LH2311	suppressed
-LH2312	suppressed
-LH2313	suppressed
-LH2314	suppressed
-LH2315	suppressed
-LH2316	suppressed
-LH2350	suppressed
-LH2350P	suppressed
-LH2351	suppressed
-LH2351P	suppressed
-LH2353	suppressed
-LH2354	suppressed
-LH2356	suppressed
-LH2357	suppressed
-LH2360	suppressed
-LH2361	suppressed
-LH2362	suppressed
-LH2400	suppressed
-LH2401	suppressed
-LH2403	suppressed
-LH2404	suppressed
-LH2406	suppressed
-LH2407	suppressed
-LH2408	suppressed
-LH2409	suppressed
-LH2410	suppressed
-LH2411	suppressed
-LH2412	suppressed
-LH2413	suppressed
-LH2414	suppressed
-LH2415	suppressed
-LH2416	suppressed
-LH2417	suppressed
-LH2418	suppressed
-LH2419	suppressed
-LH2420	suppressed
-LH2421	suppressed
-LH2422	suppressed
-LH2450	suppressed
-LH2452	suppressed
-LH2453	suppressed
-LH2454	suppressed
-LH2455	suppressed
-LH2457	suppressed
-LH2458P	suppressed
-LH2459	suppressed
-LH2461	suppressed
-LH2462	suppressed
-LH2464	suppressed
-LH2465	suppressed
-LH2466	suppressed
-LH2467	suppressed
-LH2468	suppressed
-LH2469	suppressed
-LH2470	suppressed
-LH2471	suppressed
-LH2472	suppressed
-LH2473	suppressed
-LH2474	suppressed
-LH2475	suppressed
-LH2476	suppressed
-LH2501	suppressed
-LH2502	suppressed
-LH2504	suppressed
-LH2508	suppressed
-LH2509	suppressed
-LH2510	suppressed
-LH2511	suppressed
-LH2512	suppressed
-LH2514	suppressed
-LH2515	suppressed
-LH2517	suppressed
-LH2518	suppressed
-LH2519	suppressed
-LH2520	suppressed
-LH2521	suppressed
-LH2522	suppressed
-LH2524	suppressed
-LH2525	suppressed
-LH2526	suppressed
-LH2550	suppressed
-LH2550P	suppressed
-LH2551	suppressed
-LH2551P	suppressed
-LH2552	suppressed
-LH2552P	suppressed
-LH2553	suppressed
-LH2554	suppressed
-LH2555	suppressed
-LH2558	suppressed
-LH2559	suppressed
-LH2561	suppressed
-LH2562	suppressed
-LH2563	suppressed
-LH2564	suppressed
-LH2565	suppressed
-LH2566	suppressed
-LH2567	suppressed
-LH2568	suppressed
-LH2569	suppressed
-LH2571	suppressed
-LH2572	suppressed
-LH2573	suppressed
-LH2574	suppressed
-LH2575	suppressed
-LH2576	suppressed
-LH2577	suppressed
-LH2578	suppressed
-LH2600	suppressed
-LH2601	suppressed
-LH2601P	suppressed
-LH2602P	suppressed
-LH2603P	suppressed
-LH2604	suppressed
-LH2604P	suppressed
-LH2605	suppressed
-LH2606	suppressed
-LH2607	suppressed
-LH2608	suppressed
-LH2609	suppressed
-LH2610	suppressed
-LH2611	suppressed
-LH2612	suppressed
-LH2613	suppressed
-LH2614	suppressed
-LH2615	suppressed
-LH2616	suppressed
-LH2617	suppressed
-LH2618	suppressed
-LH2619	suppressed
-LH2621	suppressed
-LH2622	suppressed
-LH2623	suppressed
-LH2624	suppressed
-LH2625	suppressed
-LH2650	suppressed
-LH2651	suppressed
-LH2651P	suppressed
-LH2652	suppressed
-LH2653	suppressed
-LH2655	suppressed
-LH2656	suppressed
-LH2657	suppressed
-LH2658	suppressed
-LH2659	suppressed
-LH2660	suppressed
-LH2661	suppressed
-LH2662	suppressed
-LH2663	suppressed
-LH2664	suppressed
-LH2665	suppressed
-LH2666	suppressed
-LH2700	suppressed
-LH2702	suppressed
-LH2704	suppressed
-LH2706P	suppressed
-LH2707	suppressed
-LH2707P	suppressed
-LH2708	suppressed
-LH2709	suppressed
-LH2709P	suppressed
-LH2710P	suppressed
-LH2711P	suppressed
-LH2712	suppressed
-LH2713	suppressed
-LH2715	suppressed
-LH2716	suppressed
-LH2717	suppressed
-LH2718	suppressed
-LH2719	suppressed
-LH2720	suppressed
-LH2721	suppressed
-LH2722	suppressed
-LH2723	suppressed
-LH2724	suppressed
-LH2726	suppressed
-LH2727	suppressed
-LH2728	suppressed
-LH2750	suppressed
-LH2751	suppressed
-LH2753	suppressed
-LH2754	suppressed
-LH2755	suppressed
-LH2757	suppressed
-LH2758	suppressed
-LH2760	suppressed
-LH2761	suppressed
-LH2762	suppressed
-LH2763	suppressed
-LH2764	suppressed
-LH2850	suppressed
-LH2851	suppressed
-LH2852	suppressed
-LH2853	suppressed
-LH2854	suppressed
-LH2855	suppressed
-PR_nwiss	suppressed
-RES_SHARE IN_RS_REQ	suppressed
-RES_SHARE OUT_RS_REQ	suppressed
-Ref_Int	suppressed
-S7 SchliessF	suppressed
-TU-Verw	suppressed
-Verm-Auss	suppressed
-ZB Verm-Auss	suppressed
-ZHB_FS	suppressed
-ZHB_HD	suppressed
-ZHB_HF	suppressed
-ZHB_SB	suppressed
-ZfW300	suppressed
-ZfW400	suppressed
-itmc	suppressed
+	BAB SemApp	suppressed
+	BAB Verm-Auss	suppressed
+	BHA Archiv	suppressed
+	BHA Ausbildung	suppressed
+	BHA Best-Aufb	suppressed
+	BHA Direktion	suppressed
+	BHA Geschichte	suppressed
+	BHA Philosoph	suppressed
+	BHA Physik	suppressed
+	BHA Theologie	suppressed
+	BHA Wirtschaft	suppressed
+	BR SemApp	suppressed
+	BR Verm-Auss	suppressed
+BR	Bde-in-Erw	suppressed
+EFB	Bde-in-Erw	suppressed
+S7	Bde-in-Erw	suppressed
+SM	Bde-in-Erw	suppressed
+HA	CET	suppressed
+HA	CET_InnoL	suppressed
+HA	Dez_Bau	suppressed
+BHA	Direktion	suppressed
+HA	DoBuS	suppressed
+HA	DoKoLL	suppressed
+	EFB SchliessF	suppressed
+	EFB SemApp	suppressed
+	EFB Verm-Auss	suppressed
+HA	Funken	suppressed
+HA	FunkenReha	suppressed
+HA	FunkenTheo	suppressed
+	HA CET	suppressed
+	HA CET_InnoL	suppressed
+	HA Dez_Bau	suppressed
+	HA DoBuS	suppressed
+	HA DoKoLL	suppressed
+	HA Funken	suppressed
+	HA FunkenReha	suppressed
+	HA FunkenTheo	suppressed
+	HA HDZ	suppressed
+	HA HRZ	suppressed
+	HA HSP	suppressed
+	HA IFS	suppressed
+	HA K4D	suppressed
+	HA LH0003	suppressed
+	HA LH0007	suppressed
+	HA LH0024	suppressed
+	HA LH0028	suppressed
+	HA LH0030W	suppressed
+	HA LH0032	suppressed
+	HA LH0033	suppressed
+	HA LH0048	suppressed
+	HA LH0067	suppressed
+	HA LH0069	suppressed
+	HA LH0072	suppressed
+	HA LH0072P	suppressed
+	HA LH0075	suppressed
+	HA LH0079	suppressed
+	HA LH0084	suppressed
+	HA LH0085	suppressed
+	HA LH0087	suppressed
+	HA LH0090	suppressed
+	HA LH0093	suppressed
+	HA LH0095	suppressed
+	HA LH0097	suppressed
+	HA LH0101	suppressed
+	HA LH0102	suppressed
+	HA LH0102P	suppressed
+	HA LH0105	suppressed
+	HA LH0105P	suppressed
+	HA LH0110	suppressed
+	HA LH0110P	suppressed
+	HA LH0112	suppressed
+	HA LH0112P	suppressed
+	HA LH0132	suppressed
+	HA LH0132P	suppressed
+	HA LH0150	suppressed
+	HA LH0151	suppressed
+	HA LH0155	suppressed
+	HA LH0157P	suppressed
+	HA LH0173	suppressed
+	HA LH0176	suppressed
+	HA LH0177	suppressed
+	HA LH0180	suppressed
+	HA LH0182	suppressed
+	HA LH0183	suppressed
+	HA LH0184	suppressed
+	HA LH0185	suppressed
+	HA LH0186	suppressed
+	HA LH0188	suppressed
+	HA LH0200	suppressed
+	HA LH0202	suppressed
+	HA LH0202S	suppressed
+	HA LH0203	suppressed
+	HA LH0203S	suppressed
+	HA LH0204	suppressed
+	HA LH0209	suppressed
+	HA LH0210	suppressed
+	HA LH0217	suppressed
+	HA LH0217P	suppressed
+	HA LH0220	suppressed
+	HA LH0230	suppressed
+	HA LH0245	suppressed
+	HA LH0245P	suppressed
+	HA LH0302	suppressed
+	HA LH0305	suppressed
+	HA LH0305P	suppressed
+	HA LH0310	suppressed
+	HA LH0319	suppressed
+	HA LH0319P	suppressed
+	HA LH0320	suppressed
+	HA LH0320P	suppressed
+	HA LH0323	suppressed
+	HA LH0323P	suppressed
+	HA LH0324	suppressed
+	HA LH0324P	suppressed
+	HA LH0417	suppressed
+	HA LH0418	suppressed
+	HA LH0426	suppressed
+	HA LH0430	suppressed
+	HA LH0453	suppressed
+	HA LH0454	suppressed
+	HA LH0456	suppressed
+	HA LH0460	suppressed
+	HA LH0475	suppressed
+	HA LH0480	suppressed
+	HA LH0485	suppressed
+	HA LH0490	suppressed
+	HA LH0500	suppressed
+	HA LH0501	suppressed
+	HA LH0501S	suppressed
+	HA LH0502	suppressed
+	HA LH0504P	suppressed
+	HA LH0506	suppressed
+	HA LH0508S	suppressed
+	HA LH0509	suppressed
+	HA LH0512	suppressed
+	HA LH0517	suppressed
+	HA LH0822	suppressed
+	HA LH0900	suppressed
+	HA LH0902	suppressed
+	HA LH1208	suppressed
+	HA LH1280	suppressed
+	HA LH1300P	suppressed
+	HA LH1310	suppressed
+	HA LH1310P	suppressed
+	HA LH1317P	suppressed
+	HA LH1329	suppressed
+	HA LH1342	suppressed
+	HA LH1354	suppressed
+	HA LH1354P	suppressed
+	HA LH1372	suppressed
+	HA LH1385	suppressed
+	HA LH1401	suppressed
+	HA LH1402	suppressed
+	HA LH1453	suppressed
+	HA LH1457	suppressed
+	HA LH1464	suppressed
+	HA LH1512	suppressed
+	HA LH1515	suppressed
+	HA LH1603	suppressed
+	HA LH1624	suppressed
+	HA LH2000	suppressed
+	HA LH2001	suppressed
+	HA LH2002	suppressed
+	HA LH2003	suppressed
+	HA LH2004	suppressed
+	HA LH2005	suppressed
+	HA LH2006	suppressed
+	HA LH2007	suppressed
+	HA LH2008	suppressed
+	HA LH2009	suppressed
+	HA LH2012	suppressed
+	HA LH2013	suppressed
+	HA LH2014	suppressed
+	HA LH2015	suppressed
+	HA LH2016	suppressed
+	HA LH2017	suppressed
+	HA LH2050	suppressed
+	HA LH2051	suppressed
+	HA LH2052	suppressed
+	HA LH2053	suppressed
+	HA LH2054	suppressed
+	HA LH2055S	suppressed
+	HA LH2057	suppressed
+	HA LH2058	suppressed
+	HA LH2060	suppressed
+	HA LH2062	suppressed
+	HA LH2063	suppressed
+	HA LH2064	suppressed
+	HA LH2065	suppressed
+	HA LH2066	suppressed
+	HA LH2067	suppressed
+	HA LH2068	suppressed
+	HA LH2100	suppressed
+	HA LH2101	suppressed
+	HA LH2103	suppressed
+	HA LH2104	suppressed
+	HA LH2106	suppressed
+	HA LH2107	suppressed
+	HA LH2108	suppressed
+	HA LH2109	suppressed
+	HA LH2110	suppressed
+	HA LH2111	suppressed
+	HA LH2112	suppressed
+	HA LH2113	suppressed
+	HA LH2114	suppressed
+	HA LH2115	suppressed
+	HA LH2116	suppressed
+	HA LH2117	suppressed
+	HA LH2150	suppressed
+	HA LH2150P	suppressed
+	HA LH2153	suppressed
+	HA LH2156	suppressed
+	HA LH2157	suppressed
+	HA LH2158	suppressed
+	HA LH2159	suppressed
+	HA LH2160	suppressed
+	HA LH2162	suppressed
+	HA LH2163	suppressed
+	HA LH2165	suppressed
+	HA LH2166	suppressed
+	HA LH2167	suppressed
+	HA LH2168	suppressed
+	HA LH2169	suppressed
+	HA LH2170	suppressed
+	HA LH2200	suppressed
+	HA LH2202	suppressed
+	HA LH2203	suppressed
+	HA LH2204	suppressed
+	HA LH2205	suppressed
+	HA LH2206	suppressed
+	HA LH2207	suppressed
+	HA LH2208	suppressed
+	HA LH2209	suppressed
+	HA LH2210	suppressed
+	HA LH2211	suppressed
+	HA LH2252	suppressed
+	HA LH2253	suppressed
+	HA LH2254	suppressed
+	HA LH2255P	suppressed
+	HA LH2256P	suppressed
+	HA LH2257	suppressed
+	HA LH2258	suppressed
+	HA LH2259	suppressed
+	HA LH2260	suppressed
+	HA LH2261	suppressed
+	HA LH2262	suppressed
+	HA LH2263	suppressed
+	HA LH2300	suppressed
+	HA LH2300S	suppressed
+	HA LH2301	suppressed
+	HA LH2301P	suppressed
+	HA LH2302	suppressed
+	HA LH2303	suppressed
+	HA LH2304	suppressed
+	HA LH2305	suppressed
+	HA LH2306	suppressed
+	HA LH2307	suppressed
+	HA LH2309	suppressed
+	HA LH2310	suppressed
+	HA LH2311	suppressed
+	HA LH2312	suppressed
+	HA LH2313	suppressed
+	HA LH2314	suppressed
+	HA LH2315	suppressed
+	HA LH2316	suppressed
+	HA LH2350	suppressed
+	HA LH2350P	suppressed
+	HA LH2351	suppressed
+	HA LH2351P	suppressed
+	HA LH2353	suppressed
+	HA LH2354	suppressed
+	HA LH2356	suppressed
+	HA LH2357	suppressed
+	HA LH2359	suppressed
+	HA LH2360	suppressed
+	HA LH2361	suppressed
+	HA LH2362	suppressed
+	HA LH2400	suppressed
+	HA LH2401	suppressed
+	HA LH2403	suppressed
+	HA LH2404	suppressed
+	HA LH2406	suppressed
+	HA LH2407	suppressed
+	HA LH2408	suppressed
+	HA LH2409	suppressed
+	HA LH2410	suppressed
+	HA LH2411	suppressed
+	HA LH2412	suppressed
+	HA LH2413	suppressed
+	HA LH2414	suppressed
+	HA LH2415	suppressed
+	HA LH2416	suppressed
+	HA LH2417	suppressed
+	HA LH2418	suppressed
+	HA LH2419	suppressed
+	HA LH2420	suppressed
+	HA LH2421	suppressed
+	HA LH2450	suppressed
+	HA LH2452	suppressed
+	HA LH2453	suppressed
+	HA LH2454	suppressed
+	HA LH2455	suppressed
+	HA LH2457	suppressed
+	HA LH2458P	suppressed
+	HA LH2459	suppressed
+	HA LH2461	suppressed
+	HA LH2462	suppressed
+	HA LH2464	suppressed
+	HA LH2465	suppressed
+	HA LH2466	suppressed
+	HA LH2467	suppressed
+	HA LH2468	suppressed
+	HA LH2469	suppressed
+	HA LH2470	suppressed
+	HA LH2471	suppressed
+	HA LH2472	suppressed
+	HA LH2473	suppressed
+	HA LH2501	suppressed
+	HA LH2502	suppressed
+	HA LH2504	suppressed
+	HA LH2508	suppressed
+	HA LH2509	suppressed
+	HA LH2510	suppressed
+	HA LH2511	suppressed
+	HA LH2512	suppressed
+	HA LH2514	suppressed
+	HA LH2515	suppressed
+	HA LH2517	suppressed
+	HA LH2518	suppressed
+	HA LH2519	suppressed
+	HA LH2520	suppressed
+	HA LH2521	suppressed
+	HA LH2522	suppressed
+	HA LH2524	suppressed
+	HA LH2525	suppressed
+	HA LH2550	suppressed
+	HA LH2550P	suppressed
+	HA LH2551	suppressed
+	HA LH2551P	suppressed
+	HA LH2552	suppressed
+	HA LH2552P	suppressed
+	HA LH2553	suppressed
+	HA LH2554	suppressed
+	HA LH2555	suppressed
+	HA LH2558	suppressed
+	HA LH2559	suppressed
+	HA LH2561	suppressed
+	HA LH2562	suppressed
+	HA LH2563	suppressed
+	HA LH2564	suppressed
+	HA LH2565	suppressed
+	HA LH2566	suppressed
+	HA LH2567	suppressed
+	HA LH2568	suppressed
+	HA LH2569	suppressed
+	HA LH2571	suppressed
+	HA LH2572	suppressed
+	HA LH2573	suppressed
+	HA LH2574	suppressed
+	HA LH2575	suppressed
+	HA LH2600	suppressed
+	HA LH2601	suppressed
+	HA LH2601P	suppressed
+	HA LH2602P	suppressed
+	HA LH2603P	suppressed
+	HA LH2604	suppressed
+	HA LH2604P	suppressed
+	HA LH2605	suppressed
+	HA LH2606	suppressed
+	HA LH2607	suppressed
+	HA LH2608	suppressed
+	HA LH2609	suppressed
+	HA LH2610	suppressed
+	HA LH2611	suppressed
+	HA LH2612	suppressed
+	HA LH2613	suppressed
+	HA LH2614	suppressed
+	HA LH2615	suppressed
+	HA LH2616	suppressed
+	HA LH2617	suppressed
+	HA LH2618	suppressed
+	HA LH2619	suppressed
+	HA LH2621	suppressed
+	HA LH2622	suppressed
+	HA LH2623	suppressed
+	HA LH2624	suppressed
+	HA LH2625	suppressed
+	HA LH2650	suppressed
+	HA LH2651	suppressed
+	HA LH2651P	suppressed
+	HA LH2652	suppressed
+	HA LH2653	suppressed
+	HA LH2655	suppressed
+	HA LH2656	suppressed
+	HA LH2657	suppressed
+	HA LH2658	suppressed
+	HA LH2659	suppressed
+	HA LH2660	suppressed
+	HA LH2661	suppressed
+	HA LH2662	suppressed
+	HA LH2700	suppressed
+	HA LH2702	suppressed
+	HA LH2704	suppressed
+	HA LH2706P	suppressed
+	HA LH2707	suppressed
+	HA LH2707P	suppressed
+	HA LH2708	suppressed
+	HA LH2709	suppressed
+	HA LH2709P	suppressed
+	HA LH2710P	suppressed
+	HA LH2711P	suppressed
+	HA LH2712	suppressed
+	HA LH2713	suppressed
+	HA LH2714	suppressed
+	HA LH2715	suppressed
+	HA LH2716	suppressed
+	HA LH2717	suppressed
+	HA LH2718	suppressed
+	HA LH2719	suppressed
+	HA LH2720	suppressed
+	HA LH2721	suppressed
+	HA LH2722	suppressed
+	HA LH2723	suppressed
+	HA LH2724	suppressed
+	HA LH2725	suppressed
+	HA LH2726	suppressed
+	HA LH2750	suppressed
+	HA LH2751	suppressed
+	HA LH2753	suppressed
+	HA LH2754	suppressed
+	HA LH2755	suppressed
+	HA LH2757	suppressed
+	HA LH2758	suppressed
+	HA LH2760	suppressed
+	HA LH2850	suppressed
+	HA LH2851	suppressed
+	HA LH2852	suppressed
+	HA PR_nwiss	suppressed
+	HA Ref_Int	suppressed
+	HA TU-Verw	suppressed
+	HA ZHB_FS	suppressed
+	HA ZHB_HD	suppressed
+	HA ZHB_HF	suppressed
+	HA ZHB_SB	suppressed
+	HA ZfW300	suppressed
+	HA ZfW400	suppressed
+	HA itmc	suppressed
+HA	HDZ	suppressed
+HA	HRZ	suppressed
+HA	HSP	suppressed
+HA	IFS	suppressed
+HA	K4D	suppressed
+HA	LH0003	suppressed
+HA	LH0007	suppressed
+HA	LH0024	suppressed
+HA	LH0028	suppressed
+HA	LH0030W	suppressed
+HA	LH0032	suppressed
+HA	LH0033	suppressed
+HA	LH0048	suppressed
+HA	LH0067	suppressed
+HA	LH0069	suppressed
+HA	LH0072	suppressed
+HA	LH0072P	suppressed
+HA	LH0075	suppressed
+HA	LH0079	suppressed
+HA	LH0084	suppressed
+HA	LH0085	suppressed
+HA	LH0087	suppressed
+HA	LH0090	suppressed
+HA	LH0095	suppressed
+HA	LH0097	suppressed
+HA	LH0101	suppressed
+HA	LH0102	suppressed
+HA	LH0102P	suppressed
+HA	LH0105	suppressed
+HA	LH0105P	suppressed
+HA	LH0110	suppressed
+HA	LH0110P	suppressed
+HA	LH0112	suppressed
+HA	LH0112P	suppressed
+HA	LH0132	suppressed
+HA	LH0132P	suppressed
+HA	LH0150	suppressed
+HA	LH0151	suppressed
+HA	LH0155	suppressed
+HA	LH0157P	suppressed
+HA	LH0176	suppressed
+HA	LH0177	suppressed
+HA	LH0180	suppressed
+HA	LH0182	suppressed
+HA	LH0183	suppressed
+HA	LH0184	suppressed
+HA	LH0185	suppressed
+HA	LH0186	suppressed
+HA	LH0188	suppressed
+HA	LH0200	suppressed
+HA	LH0202	suppressed
+HA	LH0202S	suppressed
+HA	LH0203	suppressed
+HA	LH0203S	suppressed
+HA	LH0204	suppressed
+HA	LH0209	suppressed
+HA	LH0210	suppressed
+HA	LH0217	suppressed
+HA	LH0217P	suppressed
+HA	LH0220	suppressed
+HA	LH0230	suppressed
+HA	LH0245	suppressed
+HA	LH0245P	suppressed
+HA	LH0302	suppressed
+HA	LH0305	suppressed
+HA	LH0305P	suppressed
+HA	LH0310	suppressed
+HA	LH0319	suppressed
+HA	LH0319P	suppressed
+HA	LH0320	suppressed
+HA	LH0320P	suppressed
+HA	LH0323	suppressed
+HA	LH0323P	suppressed
+HA	LH0324	suppressed
+HA	LH0324P	suppressed
+HA	LH0417	suppressed
+HA	LH0418	suppressed
+HA	LH0426	suppressed
+HA	LH0430	suppressed
+HA	LH0453	suppressed
+HA	LH0454	suppressed
+HA	LH0456	suppressed
+HA	LH0460	suppressed
+HA	LH0475	suppressed
+HA	LH0480	suppressed
+HA	LH0485	suppressed
+HA	LH0490	suppressed
+HA	LH0500	suppressed
+HA	LH0501	suppressed
+HA	LH0501S	suppressed
+HA	LH0502	suppressed
+HA	LH0504P	suppressed
+HA	LH0506	suppressed
+HA	LH0508S	suppressed
+HA	LH0509	suppressed
+HA	LH0517	suppressed
+HA	LH0822	suppressed
+HA	LH0900	suppressed
+HA	LH0902	suppressed
+HA	LH1208	suppressed
+HA	LH1280	suppressed
+HA	LH1300P	suppressed
+HA	LH1310	suppressed
+HA	LH1310P	suppressed
+HA	LH1317P	suppressed
+HA	LH1329	suppressed
+HA	LH1342	suppressed
+HA	LH1372	suppressed
+HA	LH1385	suppressed
+HA	LH1401	suppressed
+HA	LH1453	suppressed
+HA	LH1457	suppressed
+HA	LH1464	suppressed
+HA	LH1512	suppressed
+HA	LH1515	suppressed
+HA	LH1603	suppressed
+HA	LH1624	suppressed
+HA	LH2000	suppressed
+HA	LH2001	suppressed
+HA	LH2002	suppressed
+HA	LH2003	suppressed
+HA	LH2004	suppressed
+HA	LH2005	suppressed
+HA	LH2006	suppressed
+HA	LH2007	suppressed
+HA	LH2008	suppressed
+HA	LH2009	suppressed
+HA	LH2012	suppressed
+HA	LH2013	suppressed
+HA	LH2014	suppressed
+HA	LH2015	suppressed
+HA	LH2050	suppressed
+HA	LH2051	suppressed
+HA	LH2052	suppressed
+HA	LH2053	suppressed
+HA	LH2054	suppressed
+HA	LH2057	suppressed
+HA	LH2058	suppressed
+HA	LH2060	suppressed
+HA	LH2062	suppressed
+HA	LH2063	suppressed
+HA	LH2064	suppressed
+HA	LH2065	suppressed
+HA	LH2066	suppressed
+HA	LH2067	suppressed
+HA	LH2068	suppressed
+HA	LH2069	suppressed
+HA	LH2070	suppressed
+HA	LH2100	suppressed
+HA	LH2101	suppressed
+HA	LH2103	suppressed
+HA	LH2104	suppressed
+HA	LH2106	suppressed
+HA	LH2107	suppressed
+HA	LH2108	suppressed
+HA	LH2109	suppressed
+HA	LH2110	suppressed
+HA	LH2111	suppressed
+HA	LH2112	suppressed
+HA	LH2113	suppressed
+HA	LH2114	suppressed
+HA	LH2115	suppressed
+HA	LH2116	suppressed
+HA	LH2117	suppressed
+HA	LH2118	suppressed
+HA	LH2119	suppressed
+HA	LH2150	suppressed
+HA	LH2150P	suppressed
+HA	LH2153	suppressed
+HA	LH2156	suppressed
+HA	LH2157	suppressed
+HA	LH2158	suppressed
+HA	LH2159	suppressed
+HA	LH2160	suppressed
+HA	LH2162	suppressed
+HA	LH2163	suppressed
+HA	LH2165	suppressed
+HA	LH2166	suppressed
+HA	LH2167	suppressed
+HA	LH2168	suppressed
+HA	LH2169	suppressed
+HA	LH2170	suppressed
+HA	LH2171	suppressed
+HA	LH2172	suppressed
+HA	LH2200	suppressed
+HA	LH2202	suppressed
+HA	LH2203	suppressed
+HA	LH2204	suppressed
+HA	LH2205	suppressed
+HA	LH2206	suppressed
+HA	LH2207	suppressed
+HA	LH2208	suppressed
+HA	LH2209	suppressed
+HA	LH2210	suppressed
+HA	LH2212	suppressed
+HA	LH2213	suppressed
+HA	LH2252	suppressed
+HA	LH2253	suppressed
+HA	LH2254	suppressed
+HA	LH2255P	suppressed
+HA	LH2256P	suppressed
+HA	LH2257	suppressed
+HA	LH2258	suppressed
+HA	LH2259	suppressed
+HA	LH2260	suppressed
+HA	LH2261	suppressed
+HA	LH2262	suppressed
+HA	LH2263	suppressed
+HA	LH2264	suppressed
+HA	LH2300	suppressed
+HA	LH2300S	suppressed
+HA	LH2301	suppressed
+HA	LH2301P	suppressed
+HA	LH2302	suppressed
+HA	LH2303	suppressed
+HA	LH2304	suppressed
+HA	LH2305	suppressed
+HA	LH2306	suppressed
+HA	LH2307	suppressed
+HA	LH2309	suppressed
+HA	LH2310	suppressed
+HA	LH2311	suppressed
+HA	LH2312	suppressed
+HA	LH2313	suppressed
+HA	LH2314	suppressed
+HA	LH2315	suppressed
+HA	LH2316	suppressed
+HA	LH2350	suppressed
+HA	LH2350P	suppressed
+HA	LH2351	suppressed
+HA	LH2351P	suppressed
+HA	LH2353	suppressed
+HA	LH2354	suppressed
+HA	LH2356	suppressed
+HA	LH2357	suppressed
+HA	LH2360	suppressed
+HA	LH2361	suppressed
+HA	LH2362	suppressed
+HA	LH2400	suppressed
+HA	LH2401	suppressed
+HA	LH2403	suppressed
+HA	LH2404	suppressed
+HA	LH2406	suppressed
+HA	LH2407	suppressed
+HA	LH2408	suppressed
+HA	LH2409	suppressed
+HA	LH2410	suppressed
+HA	LH2411	suppressed
+HA	LH2412	suppressed
+HA	LH2413	suppressed
+HA	LH2414	suppressed
+HA	LH2415	suppressed
+HA	LH2416	suppressed
+HA	LH2417	suppressed
+HA	LH2418	suppressed
+HA	LH2419	suppressed
+HA	LH2420	suppressed
+HA	LH2421	suppressed
+HA	LH2422	suppressed
+HA	LH2450	suppressed
+HA	LH2452	suppressed
+HA	LH2453	suppressed
+HA	LH2454	suppressed
+HA	LH2455	suppressed
+HA	LH2457	suppressed
+HA	LH2458P	suppressed
+HA	LH2459	suppressed
+HA	LH2461	suppressed
+HA	LH2462	suppressed
+HA	LH2464	suppressed
+HA	LH2465	suppressed
+HA	LH2466	suppressed
+HA	LH2467	suppressed
+HA	LH2468	suppressed
+HA	LH2469	suppressed
+HA	LH2470	suppressed
+HA	LH2471	suppressed
+HA	LH2472	suppressed
+HA	LH2473	suppressed
+HA	LH2474	suppressed
+HA	LH2475	suppressed
+HA	LH2476	suppressed
+HA	LH2501	suppressed
+HA	LH2502	suppressed
+HA	LH2504	suppressed
+HA	LH2508	suppressed
+HA	LH2509	suppressed
+HA	LH2510	suppressed
+HA	LH2511	suppressed
+HA	LH2512	suppressed
+HA	LH2514	suppressed
+HA	LH2515	suppressed
+HA	LH2517	suppressed
+HA	LH2518	suppressed
+HA	LH2519	suppressed
+HA	LH2520	suppressed
+HA	LH2521	suppressed
+HA	LH2522	suppressed
+HA	LH2524	suppressed
+HA	LH2525	suppressed
+HA	LH2526	suppressed
+HA	LH2550	suppressed
+HA	LH2550P	suppressed
+HA	LH2551	suppressed
+HA	LH2551P	suppressed
+HA	LH2552	suppressed
+HA	LH2552P	suppressed
+HA	LH2553	suppressed
+HA	LH2554	suppressed
+HA	LH2555	suppressed
+HA	LH2558	suppressed
+HA	LH2559	suppressed
+HA	LH2561	suppressed
+HA	LH2562	suppressed
+HA	LH2563	suppressed
+HA	LH2564	suppressed
+HA	LH2565	suppressed
+HA	LH2566	suppressed
+HA	LH2567	suppressed
+HA	LH2568	suppressed
+HA	LH2569	suppressed
+HA	LH2571	suppressed
+HA	LH2572	suppressed
+HA	LH2573	suppressed
+HA	LH2574	suppressed
+HA	LH2575	suppressed
+HA	LH2576	suppressed
+HA	LH2577	suppressed
+HA	LH2578	suppressed
+HA	LH2600	suppressed
+HA	LH2601	suppressed
+HA	LH2601P	suppressed
+HA	LH2602P	suppressed
+HA	LH2603P	suppressed
+HA	LH2604	suppressed
+HA	LH2604P	suppressed
+HA	LH2605	suppressed
+HA	LH2606	suppressed
+HA	LH2607	suppressed
+HA	LH2608	suppressed
+HA	LH2609	suppressed
+HA	LH2610	suppressed
+HA	LH2611	suppressed
+HA	LH2612	suppressed
+HA	LH2613	suppressed
+HA	LH2614	suppressed
+HA	LH2615	suppressed
+HA	LH2616	suppressed
+HA	LH2617	suppressed
+HA	LH2618	suppressed
+HA	LH2619	suppressed
+HA	LH2621	suppressed
+HA	LH2622	suppressed
+HA	LH2623	suppressed
+HA	LH2624	suppressed
+HA	LH2625	suppressed
+HA	LH2650	suppressed
+HA	LH2651	suppressed
+HA	LH2651P	suppressed
+HA	LH2652	suppressed
+HA	LH2653	suppressed
+HA	LH2655	suppressed
+HA	LH2656	suppressed
+HA	LH2657	suppressed
+HA	LH2658	suppressed
+HA	LH2659	suppressed
+HA	LH2660	suppressed
+HA	LH2661	suppressed
+HA	LH2662	suppressed
+HA	LH2663	suppressed
+HA	LH2664	suppressed
+HA	LH2665	suppressed
+HA	LH2666	suppressed
+HA	LH2700	suppressed
+HA	LH2702	suppressed
+HA	LH2704	suppressed
+HA	LH2706P	suppressed
+HA	LH2707	suppressed
+HA	LH2707P	suppressed
+HA	LH2708	suppressed
+HA	LH2709	suppressed
+HA	LH2709P	suppressed
+HA	LH2710P	suppressed
+HA	LH2711P	suppressed
+HA	LH2712	suppressed
+HA	LH2713	suppressed
+HA	LH2715	suppressed
+HA	LH2716	suppressed
+HA	LH2717	suppressed
+HA	LH2718	suppressed
+HA	LH2719	suppressed
+HA	LH2720	suppressed
+HA	LH2721	suppressed
+HA	LH2722	suppressed
+HA	LH2723	suppressed
+HA	LH2724	suppressed
+HA	LH2726	suppressed
+HA	LH2727	suppressed
+HA	LH2728	suppressed
+HA	LH2750	suppressed
+HA	LH2751	suppressed
+HA	LH2753	suppressed
+HA	LH2754	suppressed
+HA	LH2755	suppressed
+HA	LH2757	suppressed
+HA	LH2758	suppressed
+HA	LH2760	suppressed
+HA	LH2761	suppressed
+HA	LH2762	suppressed
+HA	LH2763	suppressed
+HA	LH2764	suppressed
+HA	LH2850	suppressed
+HA	LH2851	suppressed
+HA	LH2852	suppressed
+HA	LH2853	suppressed
+HA	LH2854	suppressed
+HA	LH2855	suppressed
+HA	PR_nwiss	suppressed
+	RES_SHARE IN_RS_REQ	suppressed
+	RES_SHARE OUT_RS_REQ	suppressed
+HA	Ref_Int	suppressed
+	S7 SchliessF	suppressed
+HA	TU-Verw	suppressed
+BAB	Verm-Auss	suppressed
+BR	Verm-Auss	suppressed
+EFB	Verm-Auss	suppressed
+S7	Verm-Auss	suppressed
+ZB	Verm-Auss	suppressed
+	ZB Verm-Auss	suppressed
+HA	ZHB_FS	suppressed
+HA	ZHB_HD	suppressed
+HA	ZHB_HF	suppressed
+HA	ZHB_SB	suppressed
+HA	ZfW300	suppressed
+HA	ZfW400	suppressed
+HA	itmc	suppressed
