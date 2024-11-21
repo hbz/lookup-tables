@@ -75,6 +75,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_HHL+DE-1871+Dep1	suppressed
 49HBZ_HHL+DE-1871+Dep2	suppressed
 49HBZ_HHL+DE-1871+Hide	suppressed
+49HBZ_HHL+DE-1871+LOST	suppressed
 49HBZ_HHL+DE-1871+PRAES_HAM	suppressed
 49HBZ_HHL+DE-1871+SZ_HAM	suppressed
 49HBZ_HHL+DE-1871+VER	suppressed
@@ -557,6 +558,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA+LH2117	suppressed
 49HBZ_UBD+HA+LH2118	suppressed
 49HBZ_UBD+HA+LH2119	suppressed
+49HBZ_UBD+HA+LH2120	suppressed
 49HBZ_UBD+HA LH2150P	suppressed
 49HBZ_UBD+HA+LH2150P	suppressed
 49HBZ_UBD+HA LH2150	suppressed
