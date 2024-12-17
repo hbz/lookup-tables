@@ -96,8 +96,29 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_HSD+cdd+AusS	suppressed
 49HBZ_HSK+RMC+DL	suppressed
 49HBZ_HSL+DLR+aus	suppressed
+49HBZ_HSL+HWG+BiP	suppressed
 49HBZ_HSL+HWG+DZ_O	suppressed
+49HBZ_HSL+HWG+EK_1	suppressed
+49HBZ_HSL+HWG+EK_2	suppressed
+49HBZ_HSL+HWG+FB III	suppressed
+49HBZ_HSL+HWG+FB II	suppressed
+49HBZ_HSL+HWG+FB I	suppressed
+49HBZ_HSL+HWG+FB IV	suppressed
 49HBZ_HSL+HWG+FL	suppressed
+49HBZ_HSL+HWG+Haß	suppressed
+49HBZ_HSL+HWG+IBE	suppressed
+49HBZ_HSL+HWG+IMI	suppressed
+49HBZ_HSL+HWG+IT	suppressed
+49HBZ_HSL+HWG+MML	suppressed
+49HBZ_HSL+HWG+Prautsch	suppressed
+49HBZ_HSL+HWG+Pro EhB	suppressed
+49HBZ_HSL+HWG+Pro PPP	suppressed
+49HBZ_HSL+HWG+Prüf	suppressed
+49HBZ_HSL+HWG+Schlecker	suppressed
+49HBZ_HSL+HWG+Sem_1	suppressed
+49HBZ_HSL+HWG+SoIL	suppressed
+49HBZ_HSL+HWG+TI	suppressed
+49HBZ_HSL+HWG+VW	suppressed
 49HBZ_HSN+RES_SHARE+ILL	suppressed
 49HBZ_HST+TR+Reparatur	suppressed
 49HBZ_HST+TR+Schlü/USB	suppressed
