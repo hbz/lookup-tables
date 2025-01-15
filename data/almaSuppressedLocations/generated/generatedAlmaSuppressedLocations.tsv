@@ -571,7 +571,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA LH2112	suppressed
 49HBZ_UBD+HA+LH2112	suppressed
 49HBZ_UBD+HA LH2113	suppressed
-49HBZ_UBD+HA+LH2113	suppressed
 49HBZ_UBD+HA LH2114	suppressed
 49HBZ_UBD+HA+LH2114	suppressed
 49HBZ_UBD+HA LH2115	suppressed
@@ -1165,6 +1164,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_ULM+FID+FID_AUSGE	suppressed
 49HBZ_ULM+GEOB+GEOB_AUSGE	suppressed
 49HBZ_ULM+GEOW+GEOW_AUSGE	suppressed
+49HBZ_ULM+GEOW+GEOW_WESTF	suppressed
 49HBZ_ULM+GERM+GERM_AUSGE	suppressed
 49HBZ_ULM+GPHY_AUSGE	suppressed
 49HBZ_ULM+GRIE+GRIE_AUSGE	suppressed
@@ -1220,6 +1220,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_ULM+ZB+ZB_TAGAL	suppressed
 49HBZ_ULM+ZB+ZB_ZUGKT	suppressed
 49HBZ_ULM+ZRB+ZRB_AUSGE	suppressed
+49HBZ_ULM+ZUP+ZUP_AUSGE	suppressed
 49HBZ_ULM+ZYPE_AUSGE	suppressed
 49HBZ_WBT+T0010+UNASSIGNED	suppressed
 49HBZ_WBT+T0010+VG	suppressed

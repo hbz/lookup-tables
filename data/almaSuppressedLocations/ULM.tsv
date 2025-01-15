@@ -22,6 +22,7 @@ FBH	FBH_AUSGE	suppressed
 FID	FID_AUSGE	suppressed
 GEOB	GEOB_AUSGE	suppressed
 GEOW	GEOW_AUSGE	suppressed
+GEOW	GEOW_WESTF	suppressed
 GERM	GERM_AUSGE	suppressed
 	GPHY_AUSGE	suppressed
 GRIE	GRIE_AUSGE	suppressed
@@ -77,4 +78,5 @@ ZB	ZB_LSSFS	suppressed
 ZB	ZB_TAGAL	suppressed
 ZB	ZB_ZUGKT	suppressed
 ZRB	ZRB_AUSGE	suppressed
+ZUP	ZUP_AUSGE	suppressed
 	ZYPE_AUSGE	suppressed
