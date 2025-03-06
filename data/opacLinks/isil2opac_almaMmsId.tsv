@@ -38,6 +38,7 @@ DE-956	https://evh-bochum.digibib.net/search/katalog/record/(DE-605){almaMmsId}
 DE-98	https://www.livivo.de/doc/B{almaMmsId}
 DE-987	https://hbz-hsk.primo.exlibrisgroup.com/permalink/49HBZ_HSK/s7sqsv/alma{almaMmsId}
 DE-A96	https://fhb-aachen.digibib.net/search/katalog/record/(DE-605){almaMmsId}
+DE-B23	https://metlis.dwd.de/permalink/49HBZ_DWD/12nj12o/alma{almaMmsId}
 DE-Bi10	https://fhb-bielefeld.digibib.net/search/katalog/record/(DE-605){almaMmsId}
 DE-Bm1	https://thga.digibib.net/search/katalog/record/(DE-605){almaMmsId}
 DE-Bm3	https://hbz-bdr.primo.exlibrisgroup.com/permalink/49HBZ_BDR/o2l7kj/alma{almaMmsId}
