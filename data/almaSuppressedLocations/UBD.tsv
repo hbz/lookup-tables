@@ -867,11 +867,8 @@ HA	PR_nwiss	suppressed
 HA	Ref_Int	suppressed
 	S7 SchliessF	suppressed
 HA	TU-Verw	suppressed
-BAB	Verm-Auss	suppressed
-BR	Verm-Auss	suppressed
 EFB	Verm-Auss	suppressed
 S7	Verm-Auss	suppressed
-ZB	Verm-Auss	suppressed
 	ZB Verm-Auss	suppressed
 HA	ZHB_FS	suppressed
 HA	ZHB_HD	suppressed
