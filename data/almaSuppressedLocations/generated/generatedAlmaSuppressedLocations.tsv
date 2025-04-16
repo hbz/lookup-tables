@@ -31,6 +31,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_EDK+O9022+W-PAU	suppressed
 49HBZ_EDK+O9022+W-RET	suppressed
 49HBZ_EDK+T0006+UNASSIGNED	suppressed
+49HBZ_EVH+EVH+MAKMED	suppressed
 49HBZ_EVH+EVH+MAK	suppressed
 49HBZ_EVH+EVH+XXX	suppressed
 49HBZ_FDO+EFS+EFS_Verw	suppressed
@@ -69,9 +70,8 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_HBI+ILL_CB	suppressed
 49HBZ_HBI+ILL_CM	suppressed
 49HBZ_HBI+ILL	suppressed
+49HBZ_HBO+RES_SHARE_GS+OUT_RS_REQ	suppressed
 49HBZ_HBO+RES_SHARE+OUT_RS_REQ	suppressed
-49HBZ_HGB+DE-1866+LOSTPAID	suppressed
-49HBZ_HGB+DE-1866+LOST	suppressed
 49HBZ_HHL+DE-1871+Delete	suppressed
 49HBZ_HHL+DE-1871+Dep1	suppressed
 49HBZ_HHL+DE-1871+Dep2	suppressed
@@ -120,8 +120,10 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_HSL+HWG+TI	suppressed
 49HBZ_HSL+HWG+VW	suppressed
 49HBZ_HSN+RES_SHARE+ILL	suppressed
+49HBZ_HST+TR+MAK	suppressed
 49HBZ_HST+TR+Reparatur	suppressed
 49HBZ_HST+TR+Schlü/USB	suppressed
+49HBZ_HST+TR+SMA_Medi	suppressed
 49HBZ_HSW+HSW+00002	suppressed
 49HBZ_HSW+HSW+00003	suppressed
 49HBZ_HSW+HSW+00004	suppressed
@@ -207,7 +209,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBA+703+0	suppressed
 49HBZ_UBD+BAB SemApp	suppressed
 49HBZ_UBD+BAB Verm-Auss	suppressed
-49HBZ_UBD+BAB+Verm-Auss	suppressed
 49HBZ_UBD+BHA Archiv	suppressed
 49HBZ_UBD+BHA Ausbildung	suppressed
 49HBZ_UBD+BHA Best-Aufb	suppressed
@@ -221,7 +222,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+BR+Bde-in-Erw	suppressed
 49HBZ_UBD+BR SemApp	suppressed
 49HBZ_UBD+BR Verm-Auss	suppressed
-49HBZ_UBD+BR+Verm-Auss	suppressed
 49HBZ_UBD+EFB+Bde-in-Erw	suppressed
 49HBZ_UBD+EFB SchliessF	suppressed
 49HBZ_UBD+EFB SemApp	suppressed
@@ -303,9 +303,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA LH0102	suppressed
 49HBZ_UBD+HA+LH0102	suppressed
 49HBZ_UBD+HA LH0105P	suppressed
-49HBZ_UBD+HA+LH0105P	suppressed
 49HBZ_UBD+HA LH0105	suppressed
-49HBZ_UBD+HA+LH0105	suppressed
 49HBZ_UBD+HA LH0110P	suppressed
 49HBZ_UBD+HA+LH0110P	suppressed
 49HBZ_UBD+HA LH0110	suppressed
@@ -951,6 +949,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA+LH2624	suppressed
 49HBZ_UBD+HA LH2625	suppressed
 49HBZ_UBD+HA+LH2625	suppressed
+49HBZ_UBD+HA+LH2626	suppressed
 49HBZ_UBD+HA LH2650	suppressed
 49HBZ_UBD+HA+LH2650	suppressed
 49HBZ_UBD+HA LH2651P	suppressed
@@ -1054,6 +1053,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA+LH2762	suppressed
 49HBZ_UBD+HA+LH2763	suppressed
 49HBZ_UBD+HA+LH2764	suppressed
+49HBZ_UBD+HA+LH2765	suppressed
 49HBZ_UBD+HA LH2850	suppressed
 49HBZ_UBD+HA+LH2850	suppressed
 49HBZ_UBD+HA LH2851	suppressed
@@ -1063,6 +1063,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA+LH2853	suppressed
 49HBZ_UBD+HA+LH2854	suppressed
 49HBZ_UBD+HA+LH2855	suppressed
+49HBZ_UBD+HA+LH2856	suppressed
 49HBZ_UBD+HA PR_nwiss	suppressed
 49HBZ_UBD+HA+PR_nwiss	suppressed
 49HBZ_UBD+HA Ref_Int	suppressed
@@ -1088,7 +1089,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+S7+Verm-Auss	suppressed
 49HBZ_UBD+SM+Bde-in-Erw	suppressed
 49HBZ_UBD+ZB Verm-Auss	suppressed
-49HBZ_UBD+ZB+Verm-Auss	suppressed
 49HBZ_UBT+T0011+LÖSCH	suppressed
 49HBZ_UBT+T0011+VERBRAUCH	suppressed
 49HBZ_UBT+TF011+LÖSCH	suppressed
@@ -1121,6 +1121,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UKO+RL001+UNASSIGNED	suppressed
 49HBZ_UKO+RL001+XAUSG	suppressed
 49HBZ_ULB+0+0-DLS	suppressed
+49HBZ_ULB+0+0-MagInst2	suppressed
 49HBZ_ULB+0+0-Mak	suppressed
 49HBZ_ULB+1+1-DLS	suppressed
 49HBZ_ULB+1+1-MZ	suppressed
@@ -1196,6 +1197,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_ULM+NIED+NIED_AUSGE	suppressed
 49HBZ_ULM+NORD+NORD_AUSGE	suppressed
 49HBZ_ULM+PHAR_AUSGE	suppressed
+49HBZ_ULM+PHAR+PHAR_AUSGE	suppressed
 49HBZ_ULM+PHIL+PHIL_AUSGE	suppressed
 49HBZ_ULM+PHY_AUSGE	suppressed
 49HBZ_ULM+PSY+PSY_AUSGE	suppressed
@@ -1231,5 +1233,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_WHS+RE+38	suppressed
 49HBZ_WHS+RE+NBB	suppressed
 49HBZ_WHS+VB	suppressed
+49HBZ_ZBM+KOELN+Ausgesond	suppressed
 49HBZ_ZBM+RES_SHARE+OUT_RS_REQ	suppressed
 49HBZ_ZBS+KP001+I6MO	suppressed
