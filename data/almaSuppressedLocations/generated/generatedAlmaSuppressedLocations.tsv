@@ -124,6 +124,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_HST+TR+Reparatur	suppressed
 49HBZ_HST+TR+Schlü/USB	suppressed
 49HBZ_HST+TR+SMA_Medi	suppressed
+49HBZ_HST+UCB+DISCARD	suppressed
 49HBZ_HSW+HSW+00002	suppressed
 49HBZ_HSW+HSW+00003	suppressed
 49HBZ_HSW+HSW+00004	suppressed
