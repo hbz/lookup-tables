@@ -45,7 +45,6 @@ LAT	LAT_AUSGE	suppressed
 LEIB	LEIB_AUSGE	suppressed
 MATH	MATH_AUSGE	suppressed
 MED	MED_AUSGE	suppressed
-MED	MED_BDINGE	suppressed
 MED	MED_BDINGT	suppressed
 MED	MED_EASYS	suppressed
 MED	MED_LSSFS	suppressed
@@ -82,4 +81,5 @@ ZB	ZB_LSSFS	suppressed
 ZB	ZB_TAGAL	suppressed
 ZB	ZB_ZUGKT	suppressed
 ZRB	ZRB_AUSGE	suppressed
+ZUP	ZUP_AUSGE	suppressed
 ZYPE	ZYPE_AUSGE	suppressed

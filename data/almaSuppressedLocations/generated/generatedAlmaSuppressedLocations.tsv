@@ -636,7 +636,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA LH2210	suppressed
 49HBZ_UBD+HA+LH2210	suppressed
 49HBZ_UBD+HA LH2211	suppressed
-49HBZ_UBD+HA+LH2212	suppressed
 49HBZ_UBD+HA+LH2213	suppressed
 49HBZ_UBD+HA LH2252	suppressed
 49HBZ_UBD+HA+LH2252	suppressed
@@ -699,6 +698,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA+LH2315	suppressed
 49HBZ_UBD+HA LH2316	suppressed
 49HBZ_UBD+HA+LH2316	suppressed
+49HBZ_UBD+HA+LH2317	suppressed
 49HBZ_UBD+HA LH2350P	suppressed
 49HBZ_UBD+HA+LH2350P	suppressed
 49HBZ_UBD+HA LH2350	suppressed
@@ -1189,7 +1189,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_ULM+LEIB+LEIB_AUSGE	suppressed
 49HBZ_ULM+MATH+MATH_AUSGE	suppressed
 49HBZ_ULM+MED+MED_AUSGE	suppressed
-49HBZ_ULM+MED+MED_BDINGE	suppressed
 49HBZ_ULM+MED+MED_BDINGT	suppressed
 49HBZ_ULM+MED+MED_EASYS	suppressed
 49HBZ_ULM+MED+MED_LSSFS	suppressed
@@ -1226,6 +1225,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_ULM+ZB+ZB_TAGAL	suppressed
 49HBZ_ULM+ZB+ZB_ZUGKT	suppressed
 49HBZ_ULM+ZRB+ZRB_AUSGE	suppressed
+49HBZ_ULM+ZUP+ZUP_AUSGE	suppressed
 49HBZ_ULM+ZYPE+ZYPE_AUSGE	suppressed
 49HBZ_WBT+T0010+UNASSIGNED	suppressed
 49HBZ_WBT+T0010+VG	suppressed
