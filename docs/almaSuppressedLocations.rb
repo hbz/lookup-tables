@@ -3,7 +3,7 @@
 require 'csv'
 
 input_file       = ARGV.first or abort "Usage: #{$0} <TSV>"
-output_directory = 'data/almaSuppressedLocations'.freeze
+output_directory = File.join(__dir__, 'data', 'almaSuppressedLocations').freeze
 
 unambiguous = true
 
