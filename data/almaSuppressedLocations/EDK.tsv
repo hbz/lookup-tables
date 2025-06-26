@@ -2,6 +2,7 @@ BDA01	B-INT	suppressed
 ED001	D-BB	suppressed
 ED001	D-INT	suppressed
 ED001	D-RET	suppressed
+SCHN	S-M	suppressed
 BDA01	UNASSIGNED	suppressed
 ED001	UNASSIGNED	suppressed
 O9022	UNASSIGNED	suppressed

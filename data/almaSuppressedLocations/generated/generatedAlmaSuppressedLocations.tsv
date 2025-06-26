@@ -30,6 +30,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_EDK+O9022+W-INT	suppressed
 49HBZ_EDK+O9022+W-PAU	suppressed
 49HBZ_EDK+O9022+W-RET	suppressed
+49HBZ_EDK+SCHN+S-M	suppressed
 49HBZ_EDK+T0006+UNASSIGNED	suppressed
 49HBZ_EVH+EVH+MAKMED	suppressed
 49HBZ_EVH+EVH+MAK	suppressed
