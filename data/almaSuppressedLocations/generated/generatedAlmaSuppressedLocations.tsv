@@ -376,7 +376,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA LH0302	suppressed
 49HBZ_UBD+HA+LH0302	suppressed
 49HBZ_UBD+HA LH0305P	suppressed
-49HBZ_UBD+HA+LH0305P	suppressed
 49HBZ_UBD+HA LH0305	suppressed
 49HBZ_UBD+HA+LH0305	suppressed
 49HBZ_UBD+HA LH0310	suppressed
@@ -1231,6 +1230,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_WHS+RE+38	suppressed
 49HBZ_WHS+RE+NBB	suppressed
 49HBZ_WHS+VB	suppressed
+49HBZ_WUP+RES_SHARE+FL468	suppressed
 49HBZ_ZBM+KOELN+Ausgesond	suppressed
 49HBZ_ZBM+RES_SHARE+OUT_RS_REQ	suppressed
 49HBZ_ZBS+KP001+I6MO	suppressed
