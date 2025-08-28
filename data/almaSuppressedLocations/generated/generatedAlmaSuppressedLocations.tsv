@@ -1142,6 +1142,8 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_ULM+CASE+CASE_AUSGE	suppressed
 49HBZ_ULM+CHEM+CHEM_AUSGE	suppressed
 49HBZ_ULM+CRZI+CRZI_AUSGE	suppressed
+49HBZ_ULM+CRZI+CRZI_ISLDU	suppressed
+49HBZ_ULM+CRZI+CRZI_OTDU	suppressed
 49HBZ_ULM+DBIO+DBIO_AUSGE	suppressed
 49HBZ_ULM+DMAT+DMAT_AUSGE	suppressed
 49HBZ_ULM+DSAC+DSAC_AUSGE	suppressed
@@ -1156,6 +1158,8 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_ULM+GEOW+GEOW_AUSGE	suppressed
 49HBZ_ULM+GEOW+GEOW_WESTF	suppressed
 49HBZ_ULM+GERM+GERM_AUSGE	suppressed
+49HBZ_ULM+GERM+GERM_BDNG	suppressed
+49HBZ_ULM+GERM+GERM_BDNGT	suppressed
 49HBZ_ULM+GPHY+GPHY_AUSGE	suppressed
 49HBZ_ULM+GRIE+GRIE_AUSGE	suppressed
 49HBZ_ULM+HLS+HLS_AUSGE	suppressed

@@ -10,6 +10,8 @@ BYNE	BYNE_AUSGE	suppressed
 CASE	CASE_AUSGE	suppressed
 CHEM	CHEM_AUSGE	suppressed
 CRZI	CRZI_AUSGE	suppressed
+CRZI	CRZI_ISLDU	suppressed
+CRZI	CRZI_OTDU	suppressed
 DBIO	DBIO_AUSGE	suppressed
 DMAT	DMAT_AUSGE	suppressed
 DSAC	DSAC_AUSGE	suppressed
@@ -24,6 +26,8 @@ GEOB	GEOB_AUSGE	suppressed
 GEOW	GEOW_AUSGE	suppressed
 GEOW	GEOW_WESTF	suppressed
 GERM	GERM_AUSGE	suppressed
+GERM	GERM_BDNG	suppressed
+GERM	GERM_BDNGT	suppressed
 GPHY	GPHY_AUSGE	suppressed
 GRIE	GRIE_AUSGE	suppressed
 HLS	HLS_AUSGE	suppressed
