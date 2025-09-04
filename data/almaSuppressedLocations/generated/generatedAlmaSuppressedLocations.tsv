@@ -97,6 +97,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_HSD+cdd+AusS	suppressed
 49HBZ_HSK+RMC+DL	suppressed
 49HBZ_HSL+DLR+aus	suppressed
+49HBZ_HSL+DLR+UNASSIGNED	suppressed
 49HBZ_HSL+HWG+BiP	suppressed
 49HBZ_HSL+HWG+DZ_O	suppressed
 49HBZ_HSL+HWG+EK_1	suppressed
@@ -831,7 +832,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA+LH2525	suppressed
 49HBZ_UBD+HA+LH2526	suppressed
 49HBZ_UBD+HA LH2550P	suppressed
-49HBZ_UBD+HA+LH2550P	suppressed
 49HBZ_UBD+HA LH2550	suppressed
 49HBZ_UBD+HA+LH2550	suppressed
 49HBZ_UBD+HA LH2551P	suppressed
