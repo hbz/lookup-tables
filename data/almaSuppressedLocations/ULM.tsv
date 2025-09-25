@@ -20,6 +20,9 @@ ENGL	ENGL_AUSGE	suppressed
 ENGL	ENGL_BDNG	suppressed
 ETHN	ETHN_AUSGE	suppressed
 EVT	EVT_AUSGE	suppressed
+EVT	EVT_BDU_P	suppressed
+EVT	EVT_BIBDU	suppressed
+EVT	EVT_MAGDU	suppressed
 FBH	FBH_AUSGE	suppressed
 FID	FID_AUSGE	suppressed
 GEOB	GEOB_AUSGE	suppressed
