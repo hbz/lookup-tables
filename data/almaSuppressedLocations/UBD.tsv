@@ -450,7 +450,6 @@ HA	HRZ	suppressed
 HA	HSP	suppressed
 HA	IFS	suppressed
 HA	K4D	suppressed
-HA	LH0003	suppressed
 HA	LH0007	suppressed
 HA	LH0024	suppressed
 HA	LH0028	suppressed
@@ -521,8 +520,6 @@ HA	LH0480	suppressed
 HA	LH0485	suppressed
 HA	LH0490	suppressed
 HA	LH0500	suppressed
-HA	LH0501	suppressed
-HA	LH0501S	suppressed
 HA	LH0502	suppressed
 HA	LH0506	suppressed
 HA	LH0508S	suppressed
@@ -532,7 +529,6 @@ HA	LH0900	suppressed
 HA	LH0902	suppressed
 HA	LH1208	suppressed
 HA	LH1280	suppressed
-HA	LH1310	suppressed
 HA	LH1310P	suppressed
 HA	LH1317P	suppressed
 HA	LH1329	suppressed
@@ -764,9 +760,7 @@ HA	LH2604	suppressed
 HA	LH2604P	suppressed
 HA	LH2605	suppressed
 HA	LH2606	suppressed
-HA	LH2607	suppressed
 HA	LH2608	suppressed
-HA	LH2609	suppressed
 HA	LH2610	suppressed
 HA	LH2611	suppressed
 HA	LH2612	suppressed
