@@ -5,12 +5,7 @@ RES_SHARE	ILL	suppressed
 FHMH	LBA_V	suppressed
 FHMH	PB_V	suppressed
 FHMS	Stb_B	suppressed
-FHMF	TsH_F	suppressed
-FHMS	TsH_S	suppressed
 FHMF	TsM_F	suppressed
 FHMH	TsM_H	suppressed
 FHML	TsM_L	suppressed
 FHMS	TsM_S	suppressed
-FHMH	TsT_H	suppressed
-FHML	TsT_L	suppressed
-FHMS	TsT_S	suppressed
