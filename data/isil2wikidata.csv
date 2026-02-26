@@ -1063,8 +1063,10 @@
 "DE-139"	http://www.wikidata.org/entity/Q1540145
 "DE-1400"	http://www.wikidata.org/entity/Q28662394
 "DE-14-00"	http://www.wikidata.org/entity/Q323270
+"DE-14-01"	http://www.wikidata.org/entity/Q138472924
 "DE-1401"	http://www.wikidata.org/entity/Q28734554
 "DE-1402"	http://www.wikidata.org/entity/Q28686345
+"DE-14-03"	http://www.wikidata.org/entity/Q138472923
 "DE-1403"	http://www.wikidata.org/entity/Q28662247
 "DE-1404"	http://www.wikidata.org/entity/Q28729324
 "DE-1405"	http://www.wikidata.org/entity/Q28662248
@@ -1098,6 +1100,7 @@
 "DE-142"	http://www.wikidata.org/entity/Q28657807
 "DE-1430"	http://www.wikidata.org/entity/Q28734556
 "DE-1431"	http://www.wikidata.org/entity/Q28662274
+"DE-14-32"	http://www.wikidata.org/entity/Q138472925
 "DE-1432"	http://www.wikidata.org/entity/Q28734557
 "DE-1433"	http://www.wikidata.org/entity/Q28729336
 "DE-1434"	http://www.wikidata.org/entity/Q28729337
@@ -1202,6 +1205,7 @@
 "DE-1526"	http://www.wikidata.org/entity/Q28729435
 "DE-1527"	http://www.wikidata.org/entity/Q28734670
 "DE-1528"	http://www.wikidata.org/entity/Q28734672
+"DE-15-292"	http://www.wikidata.org/entity/Q138472932
 "DE-1529"	http://www.wikidata.org/entity/Q28729496
 "DE-152"	http://www.wikidata.org/entity/Q28681805
 "DE-1530"	http://www.wikidata.org/entity/Q28729497
@@ -2274,6 +2278,7 @@
 "DE-2841"	http://www.wikidata.org/entity/Q72422482
 "DE-2847"	http://www.wikidata.org/entity/Q11687965
 "DE-284"	http://www.wikidata.org/entity/Q2327040
+"DE-2857"	http://www.wikidata.org/entity/Q138473149
 "DE-285"	http://www.wikidata.org/entity/Q2326869
 "DE-286"	http://www.wikidata.org/entity/Q15848807
 "DE-2870"	http://www.wikidata.org/entity/Q134561546
@@ -2311,8 +2316,18 @@
 "DE-299"	http://www.wikidata.org/entity/Q28661781
 "DE-29"	http://www.wikidata.org/entity/Q15979678
 "DE-29T"	http://www.wikidata.org/entity/Q28737876
+"DE-3021"	http://www.wikidata.org/entity/Q138473119
+"DE-3023"	http://www.wikidata.org/entity/Q138473100
+"DE-3024"	http://www.wikidata.org/entity/Q138472957
+"DE-3026"	http://www.wikidata.org/entity/Q138472952
+"DE-3029"	http://www.wikidata.org/entity/Q138473217
 "DE-30-332"	http://www.wikidata.org/entity/Q28737436
+"DE-3033"	http://www.wikidata.org/entity/Q138473252
+"DE-3039"	http://www.wikidata.org/entity/Q138473232
+"DE-3043"	http://www.wikidata.org/entity/Q138473189
+"DE-3044"	http://www.wikidata.org/entity/Q138473034
 "DE-3050"	http://www.wikidata.org/entity/Q81164915
+"DE-3067"	http://www.wikidata.org/entity/Q138472958
 "DE-3081"	http://www.wikidata.org/entity/Q65952623
 "DE-3082"	http://www.wikidata.org/entity/Q107134734
 "DE-3094"	http://www.wikidata.org/entity/Q19965797
@@ -2376,12 +2391,15 @@
 "DE-39"	http://www.wikidata.org/entity/Q28738121
 "DE-3"	http://www.wikidata.org/entity/Q1600777
 "DE-4007"	http://www.wikidata.org/entity/Q96254872
+"DE-4009"	http://www.wikidata.org/entity/Q138473155
 "DE-4014"	http://www.wikidata.org/entity/Q14545214
+"DE-4018"	http://www.wikidata.org/entity/Q138473230
 "DE-4034"	http://www.wikidata.org/entity/Q130766489
 "DE-4041"	http://www.wikidata.org/entity/Q1933855
 "DE-4044"	http://www.wikidata.org/entity/Q2752295
 "DE-4046"	http://www.wikidata.org/entity/Q107176387
 "DE-4053"	http://www.wikidata.org/entity/Q105721909
+"DE-4057"	http://www.wikidata.org/entity/Q138473132
 "DE-405"	http://www.wikidata.org/entity/Q28661784
 "DE-406"	http://www.wikidata.org/entity/Q28661849
 "DE-4074"	http://www.wikidata.org/entity/Q107145448
@@ -2408,6 +2426,7 @@
 "DE-418"	http://www.wikidata.org/entity/Q28661865
 "DE-4192"	http://www.wikidata.org/entity/Q81164854
 "DE-4197"	http://www.wikidata.org/entity/Q120743753
+"DE-4207"	http://www.wikidata.org/entity/Q138473208
 "DE-420"	http://www.wikidata.org/entity/Q28661867
 "DE-421"	http://www.wikidata.org/entity/Q28733497
 "DE-4227"	http://www.wikidata.org/entity/Q105762612
@@ -2516,6 +2535,7 @@
 "DE-454"	http://www.wikidata.org/entity/Q28661895
 "DE-455"	http://www.wikidata.org/entity/Q18023141
 "DE-456"	http://www.wikidata.org/entity/Q28661897
+"DE-4579"	http://www.wikidata.org/entity/Q138473184
 "DE-457"	http://www.wikidata.org/entity/Q28685151
 "DE-4580"	http://www.wikidata.org/entity/Q2514762
 "DE-458"	http://www.wikidata.org/entity/Q1802349
