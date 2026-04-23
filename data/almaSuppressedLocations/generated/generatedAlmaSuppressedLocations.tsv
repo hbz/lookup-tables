@@ -164,6 +164,9 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_RUW+1393+SF_MH	suppressed
 49HBZ_RUW+EMPTY+UNASSIGNED	suppressed
 49HBZ_RUW+RES_SHARE+ILL	suppressed
+49HBZ_TGA+THGA+AUS	suppressed
+49HBZ_TGA+THGA+MAHN	suppressed
+49HBZ_TGA+THGA+VER	suppressed
 49HBZ_THK+DEUTZ+LOESCH_D	suppressed
 49HBZ_THK+GUM+LOESCH_G	suppressed
 49HBZ_THK+LEV+LOESCH_L	suppressed
@@ -1108,6 +1111,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_ULB+B405+B405-LS	suppressed
 49HBZ_ULB+B405+B405-Mag	suppressed
 49HBZ_ULB+B412+B412-Zeit	suppressed
+49HBZ_ULB+LL+LL-Frei	suppressed
 49HBZ_ULB+RES_SHARE+0-ILL	suppressed
 49HBZ_ULB+RES_SHARE1+1-ILL	suppressed
 49HBZ_ULB+RES_SHARE1+RS1-PFL	suppressed
