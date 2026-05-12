@@ -438,7 +438,6 @@
 "CH-001532-3"	http://www.wikidata.org/entity/Q27487225
 "CH-001533-0"	http://www.wikidata.org/entity/Q27479955
 "CH-001534-8"	http://www.wikidata.org/entity/Q27488714
-"CH-001534-8"	http://www.wikidata.org/entity/Q99578122
 "CH-001535-5"	http://www.wikidata.org/entity/Q23783857
 "CH-001536-2"	http://www.wikidata.org/entity/Q27488962
 "CH-001537-X"	http://www.wikidata.org/entity/Q26725920
@@ -620,6 +619,7 @@
 "CH-002364-0"	http://www.wikidata.org/entity/Q63845248
 "CH-002402-3"	http://www.wikidata.org/entity/Q108311539
 "CH-002412-X"	http://www.wikidata.org/entity/Q113977165
+"CH-002422-6"	http://www.wikidata.org/entity/Q99578122
 "CH-6"	http://www.wikidata.org/entity/Q682092
 "CH-8"	http://www.wikidata.org/entity/Q2120232
 "DE-1000"	http://www.wikidata.org/entity/Q28733566
@@ -4670,6 +4670,7 @@
 "DE-MUS-003925"	http://www.wikidata.org/entity/Q14545232
 "DE-MUS-004017"	http://www.wikidata.org/entity/Q1706708
 "DE-MUS-004022"	http://www.wikidata.org/entity/Q76638541
+"DE-MUS-004111"	http://www.wikidata.org/entity/Q139680219
 "DE-MUS-004111"	http://www.wikidata.org/entity/Q76633502
 "DE-MUS-004126"	http://www.wikidata.org/entity/Q76636987
 "DE-MUS-004215"	http://www.wikidata.org/entity/Q76633505
@@ -8544,7 +8545,7 @@
 "DE-MUS-465912"	http://www.wikidata.org/entity/Q76631695
 "DE-MUS-466019"	http://www.wikidata.org/entity/Q76634629
 "DE-MUS-466113"	http://www.wikidata.org/entity/Q76633023
-"DE-MUS-466519"	http://www.wikidata.org/entity/Q64797623
+"DE-MUS-466519"	http://www.wikidata.org/entity/Q139677494
 "DE-MUS-466613"	http://www.wikidata.org/entity/Q2565712
 "DE-MUS-466811"	http://www.wikidata.org/entity/Q76633823
 "DE-MUS-466915"	http://www.wikidata.org/entity/Q1742171
