@@ -1100,6 +1100,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_ULB+0+0-MagInst2	suppressed
 49HBZ_ULB+0+0-Mak	suppressed
 49HBZ_ULB+1+1-DLS	suppressed
+49HBZ_ULB+1+1-MagInst	suppressed
 49HBZ_ULB+1+1-MZ	suppressed
 49HBZ_ULB+1EX98+1EX98-DEL	suppressed
 49HBZ_ULB+B059+B059-Zeit	suppressed
