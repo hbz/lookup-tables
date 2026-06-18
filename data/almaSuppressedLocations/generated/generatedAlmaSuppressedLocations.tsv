@@ -19,11 +19,9 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_DUE+X0099+NB	suppressed
 49HBZ_DUE+X0099+VERL	suppressed
 49HBZ_EDK+BDA01+B-INT	suppressed
-49HBZ_EDK+BDA01+UNASSIGNED	suppressed
 49HBZ_EDK+ED001+D-BB	suppressed
 49HBZ_EDK+ED001+D-INT	suppressed
 49HBZ_EDK+ED001+D-RET	suppressed
-49HBZ_EDK+ED001+UNASSIGNED	suppressed
 49HBZ_EDK+O9022+UNASSIGNED	suppressed
 49HBZ_EDK+O9022+W-DG	suppressed
 49HBZ_EDK+O9022+W-DUE	suppressed
@@ -32,7 +30,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_EDK+O9022+W-RET	suppressed
 49HBZ_EDK+RES_SHARE+OUT_RS_REQ	suppressed
 49HBZ_EDK+SCHN+S-M	suppressed
-49HBZ_EDK+T0006+UNASSIGNED	suppressed
 49HBZ_EVH+EVH+MAKMED	suppressed
 49HBZ_EVH+EVH+MAK	suppressed
 49HBZ_EVH+EVH+XXX	suppressed
@@ -214,6 +211,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+BHA Direktion	suppressed
 49HBZ_UBD+BHA+Direktion	suppressed
 49HBZ_UBD+BHA Geschichte	suppressed
+49HBZ_UBD+BHA+Math-Lager	suppressed
 49HBZ_UBD+BHA Philosoph	suppressed
 49HBZ_UBD+BHA Physik	suppressed
 49HBZ_UBD+BHA Theologie	suppressed
