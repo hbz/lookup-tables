@@ -1037,6 +1037,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA+LH2854	suppressed
 49HBZ_UBD+HA+LH2855	suppressed
 49HBZ_UBD+HA+LH2856	suppressed
+49HBZ_UBD+HA+LH2857	suppressed
 49HBZ_UBD+HA PR_nwiss	suppressed
 49HBZ_UBD+HA+PR_nwiss	suppressed
 49HBZ_UBD+HA Ref_Int	suppressed
@@ -1109,7 +1110,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_ULB+B405+B405-LS	suppressed
 49HBZ_ULB+B405+B405-Mag	suppressed
 49HBZ_ULB+B412+B412-Zeit	suppressed
-49HBZ_ULB+LL+LL-Frei	suppressed
 49HBZ_ULB+RES_SHARE+0-ILL	suppressed
 49HBZ_ULB+RES_SHARE1+1-ILL	suppressed
 49HBZ_ULB+RES_SHARE1+RS1-PFL	suppressed
