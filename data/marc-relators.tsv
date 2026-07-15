@@ -26,14 +26,14 @@ http://id.loc.gov/vocabulary/relators/ato	ato	autographer	Autographer	Unterzeich
 http://id.loc.gov/vocabulary/relators/att	att	attributed name	Attributed name
 http://id.loc.gov/vocabulary/relators/auc	auc	auctioneer	Auctioneer
 http://id.loc.gov/vocabulary/relators/aud	aud	author of dialog	Author of dialog
-http://id.loc.gov/vocabulary/relators/aue	aue	audio engineer	Audio engineer
+http://id.loc.gov/vocabulary/relators/aue	aue	audio engineer	Audio engineer	Tontechniker/in
 http://id.loc.gov/vocabulary/relators/aui	aui	author of introduction, etc.	Writer of foreword	Vorwort
-http://id.loc.gov/vocabulary/relators/aup	aup	audio producer	Audio producer
+http://id.loc.gov/vocabulary/relators/aup	aup	audio producer	Audio producer	Produzent/in einer Tonaufnahme
 http://id.loc.gov/vocabulary/relators/aus	aus	screenwriter	Screenwriter	Drehbuch
 http://id.loc.gov/vocabulary/relators/aut	aut	author	Author	Autor/in
 http://id.loc.gov/vocabulary/relators/bdd	bdd	binding designer	Binding designer
 http://id.loc.gov/vocabulary/relators/bjd	bjd	bookjacket designer	Bookjacket designer
-http://id.loc.gov/vocabulary/relators/bka	bka	book artist	Book artist
+http://id.loc.gov/vocabulary/relators/bka	bka	book artist	Book artist	Buchkünstler/in
 http://id.loc.gov/vocabulary/relators/bkd	bkd	book designer	Book designer	Buchgestaltung
 http://id.loc.gov/vocabulary/relators/bkp	bkp	book producer	Book producer
 http://id.loc.gov/vocabulary/relators/blw	blw	blurb writer	Blurb writer
@@ -42,7 +42,7 @@ http://id.loc.gov/vocabulary/relators/bpd	bpd	bookplate designer	Bookplate desig
 http://id.loc.gov/vocabulary/relators/brd	brd	broadcaster	Broadcaster	Sender
 http://id.loc.gov/vocabulary/relators/brl	brl	braille embosser	Braille embosser	Brailleprägung
 http://id.loc.gov/vocabulary/relators/bsl	bsl	bookseller	Bookseller
-http://id.loc.gov/vocabulary/relators/cad	cad	casting director	Casting director
+http://id.loc.gov/vocabulary/relators/cad	cad	casting director	Casting director	Casting Director
 http://id.loc.gov/vocabulary/relators/cas	cas	caster	Caster	Formguss
 http://id.loc.gov/vocabulary/relators/ccp	ccp	conceptor	Conceptor
 http://id.loc.gov/vocabulary/relators/chr	chr	choreographer	Choreographer	Choreographie
@@ -87,16 +87,16 @@ http://id.loc.gov/vocabulary/relators/cts	cts	contestee	Contestee
 http://id.loc.gov/vocabulary/relators/ctt	ctt	contestee-appellant	Contestee-appellant
 http://id.loc.gov/vocabulary/relators/cur	cur	curator	Curator	Kurator/in
 http://id.loc.gov/vocabulary/relators/cwt	cwt	commentator for written text	Commentator for written text
-http://id.loc.gov/vocabulary/relators/dbd	dbd	dubbing director	Dubbing director
+http://id.loc.gov/vocabulary/relators/dbd	dbd	dubbing director	Dubbing director	Synchronregisseur/in
 http://id.loc.gov/vocabulary/relators/dbp	dbp	distribution place	Distribution place
 http://id.loc.gov/vocabulary/relators/dfd	dfd	defendant	Defendant	Angeklagte/r
 http://id.loc.gov/vocabulary/relators/dfe	dfe	defendant-appellee	Defendant-appellee
 http://id.loc.gov/vocabulary/relators/dft	dft	defendant-appellant	Defendant-appellant
-http://id.loc.gov/vocabulary/relators/dgc	dgc	degree committee member	Degree committee member
+http://id.loc.gov/vocabulary/relators/dgc	dgc	degree committee member	Degree committee member	Mitglied eines Graduierungsausschusses
 http://id.loc.gov/vocabulary/relators/dgg	dgg	degree granting institution	Degree granting institution	Grad-verleihende Institution
 http://id.loc.gov/vocabulary/relators/dgs	dgs	degree supervisor	Degree supervisor	Akademische Betreuung
 http://id.loc.gov/vocabulary/relators/dis	dis	dissertant	Dissertant
-http://id.loc.gov/vocabulary/relators/djo	djo	dj	DJ
+http://id.loc.gov/vocabulary/relators/djo	djo	dj	DJ	DJ
 http://id.loc.gov/vocabulary/relators/dln	dln	delineator	Delineator
 http://id.loc.gov/vocabulary/relators/dnc	dnc	dancer	Dancer	Tänzer/in
 http://id.loc.gov/vocabulary/relators/dnr	dnr	donor	Donor	Stifter/in
@@ -112,7 +112,7 @@ http://id.loc.gov/vocabulary/relators/dtm	dtm	data manager	Data manager
 http://id.loc.gov/vocabulary/relators/dto	dto	dedicator	Dedicator	Widmende/r
 http://id.loc.gov/vocabulary/relators/dub	dub	dubious author	Dubious author
 http://id.loc.gov/vocabulary/relators/edc	edc	editor of compilation	Editor of compilation
-http://id.loc.gov/vocabulary/relators/edd	edd	editorial director	Editorial director
+http://id.loc.gov/vocabulary/relators/edd	edd	editorial director	Editorial director	Chefredakteur/in
 http://id.loc.gov/vocabulary/relators/edm	edm	editor of moving image work	Editor of moving image work	Schnitt
 http://id.loc.gov/vocabulary/relators/edt	edt	editor	Editor	Herausgeber/in
 http://id.loc.gov/vocabulary/relators/egr	egr	engraver	Engraver	Stecher/in
@@ -132,7 +132,7 @@ http://id.loc.gov/vocabulary/relators/fmk	fmk	filmmaker	Filmmaker	Filmemacher/in
 http://id.loc.gov/vocabulary/relators/fmo	fmo	former owner	Former owner	frühere/r Eigentümer/in
 http://id.loc.gov/vocabulary/relators/fmp	fmp	film producer	Film producer	Filmproduktion
 http://id.loc.gov/vocabulary/relators/fnd	fnd	funder	Funder
-http://id.loc.gov/vocabulary/relators/fon	fon	founder	Founder
+http://id.loc.gov/vocabulary/relators/fon	fon	founder	Founder	Begründer/in eines Werks
 http://id.loc.gov/vocabulary/relators/fpy	fpy	first party	First party
 http://id.loc.gov/vocabulary/relators/frg	frg	forger	Forger
 http://id.loc.gov/vocabulary/relators/gdv	gdv	game developer	Game developer
@@ -176,7 +176,7 @@ http://id.loc.gov/vocabulary/relators/mdc	mdc	metadata contact	Metadata contact
 http://id.loc.gov/vocabulary/relators/med	med	medium	Medium	Medium
 http://id.loc.gov/vocabulary/relators/mfp	mfp	manufacture place	Manufacture place
 http://id.loc.gov/vocabulary/relators/mfr	mfr	manufacturer	Manufacturer	Herstellung
-http://id.loc.gov/vocabulary/relators/mka	mka	makeup artist	Makeup artist
+http://id.loc.gov/vocabulary/relators/mka	mka	makeup artist	Makeup artist	Maskenbildner/in
 http://id.loc.gov/vocabulary/relators/mod	mod	moderator	Moderator	Moderation
 http://id.loc.gov/vocabulary/relators/mon	mon	monitor	Monitor
 http://id.loc.gov/vocabulary/relators/mrb	mrb	marbler	Marbler
@@ -184,12 +184,12 @@ http://id.loc.gov/vocabulary/relators/mrk	mrk	markup editor	Markup editor
 http://id.loc.gov/vocabulary/relators/msd	msd	musical director	Musical director	Musikalische Leitung
 http://id.loc.gov/vocabulary/relators/mte	mte	metal engraver	Metal engraver
 http://id.loc.gov/vocabulary/relators/mtk	mtk	minute taker	Minute taker	Protokoll
-http://id.loc.gov/vocabulary/relators/mup	mup	music programmer	Music programmer
+http://id.loc.gov/vocabulary/relators/mup	mup	music programmer	Music programmer	Musik-Programmierer/in
 http://id.loc.gov/vocabulary/relators/mus	mus	musician	Musician	Musiker/in
-http://id.loc.gov/vocabulary/relators/mxe	mxe	mixing engineer	Mixing engineer
+http://id.loc.gov/vocabulary/relators/mxe	mxe	mixing engineer	Mixing engineer	Mischtontechniker/in
 http://id.loc.gov/vocabulary/relators/nan	nan	news anchor	News anchor
 http://id.loc.gov/vocabulary/relators/nrt	nrt	narrator	Narrator	Erzähler/in
-http://id.loc.gov/vocabulary/relators/onp	onp	onscreen participant	Onscreen participant
+http://id.loc.gov/vocabulary/relators/onp	onp	onscreen participant	Onscreen participant	On-Screen-Teilnehmer/in
 http://id.loc.gov/vocabulary/relators/opn	opn	opponent	Opponent
 http://id.loc.gov/vocabulary/relators/org	org	originator	Originator	Begründet durch
 http://id.loc.gov/vocabulary/relators/orm	orm	organizer	Organizer	Veranstalter/in
@@ -230,7 +230,7 @@ http://id.loc.gov/vocabulary/relators/ptf	ptf	plaintiff	Plaintiff	Zivilkläger/i
 http://id.loc.gov/vocabulary/relators/pth	pth	patent holder	Patent holder
 http://id.loc.gov/vocabulary/relators/ptt	ptt	plaintiff-appellant	Plaintiff-appellant
 http://id.loc.gov/vocabulary/relators/pup	pup	publication place	Publication place
-http://id.loc.gov/vocabulary/relators/rap	rap	rapporteur	Rapporteur
+http://id.loc.gov/vocabulary/relators/rap	rap	rapporteur	Rapporteur	Berichterstatter/in
 http://id.loc.gov/vocabulary/relators/rbr	rbr	rubricator	Rubricator
 http://id.loc.gov/vocabulary/relators/rcd	rcd	recordist	Recordist	Ton
 http://id.loc.gov/vocabulary/relators/rce	rce	recording engineer	Recording engineer	Aufnahmetechniker/in
@@ -251,7 +251,7 @@ http://id.loc.gov/vocabulary/relators/rsr	rsr	restorationist	Restorationist	Rest
 http://id.loc.gov/vocabulary/relators/rst	rst	respondent-appellant	Respondent-appellant
 http://id.loc.gov/vocabulary/relators/rth	rth	research team head	Research team head
 http://id.loc.gov/vocabulary/relators/rtm	rtm	research team member	Research team member
-http://id.loc.gov/vocabulary/relators/rxa	rxa	remix artist	Remix artist
+http://id.loc.gov/vocabulary/relators/rxa	rxa	remix artist	Remix artist	Remix Artist
 http://id.loc.gov/vocabulary/relators/sad	sad	scientific advisor	Scientific advisor
 http://id.loc.gov/vocabulary/relators/sce	sce	scenarist	Scenarist
 http://id.loc.gov/vocabulary/relators/scl	scl	sculptor	Sculptor	Bildhauer/in
@@ -259,7 +259,7 @@ http://id.loc.gov/vocabulary/relators/scr	scr	scribe	Scribe
 http://id.loc.gov/vocabulary/relators/sde	sde	sound engineer	Sound engineer
 http://id.loc.gov/vocabulary/relators/sds	sds	sound designer	Sound designer	Tongestaltung
 http://id.loc.gov/vocabulary/relators/sec	sec	secretary	Secretary
-http://id.loc.gov/vocabulary/relators/sfx	sfx	special effects provider	Special effects provider
+http://id.loc.gov/vocabulary/relators/sfx	sfx	special effects provider	Special effects provider	Special-effects-Provider
 http://id.loc.gov/vocabulary/relators/sgd	sgd	stage director	Stage director	Bühnenregie
 http://id.loc.gov/vocabulary/relators/sgn	sgn	signer	Signer
 http://id.loc.gov/vocabulary/relators/sht	sht	supporting host	Supporting host
@@ -275,7 +275,7 @@ http://id.loc.gov/vocabulary/relators/stl	stl	storyteller	Storyteller	Geschichte
 http://id.loc.gov/vocabulary/relators/stm	stm	stage manager	Stage manager
 http://id.loc.gov/vocabulary/relators/stn	stn	standards body	Standards body
 http://id.loc.gov/vocabulary/relators/str	str	stereotyper	Stereotyper
-http://id.loc.gov/vocabulary/relators/swd	swd	software developer	Software developer
+http://id.loc.gov/vocabulary/relators/swd	swd	software developer	Software developer	Softwareentwickler
 http://id.loc.gov/vocabulary/relators/tad	tad	technical advisor	Technical advisor
 http://id.loc.gov/vocabulary/relators/tau	tau	television writer	Television writer
 http://id.loc.gov/vocabulary/relators/tcd	tcd	technical director	Technical director
@@ -292,7 +292,7 @@ http://id.loc.gov/vocabulary/relators/tyg	tyg	typographer	Typographer
 http://id.loc.gov/vocabulary/relators/uvp	uvp	university place	University place
 http://id.loc.gov/vocabulary/relators/vac	vac	voice actor	Voice actor	Synchronsprecher/in
 http://id.loc.gov/vocabulary/relators/vdg	vdg	videographer	Director of photography	Kamera
-http://id.loc.gov/vocabulary/relators/vfx	vfx	visual effects provider	Visual effects provider
+http://id.loc.gov/vocabulary/relators/vfx	vfx	visual effects provider	Visual effects provider	Visual-effects-Provider
 http://id.loc.gov/vocabulary/relators/voc	voc	vocalist	Vocalist
 http://id.loc.gov/vocabulary/relators/wac	wac	writer of added commentary	Writer of added commentary	Zusätzlicher Kommentar
 http://id.loc.gov/vocabulary/relators/wal	wal	writer of added lyrics	Writer of added lyrics	Verfasser/in von zusätzlichen Lyrics
