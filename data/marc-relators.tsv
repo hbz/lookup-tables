@@ -169,7 +169,7 @@ http://id.loc.gov/vocabulary/relators/lsa	lsa	landscape architect	Landscape arch
 http://id.loc.gov/vocabulary/relators/lse	lse	licensee	Licensee
 http://id.loc.gov/vocabulary/relators/lso	lso	licensor	Licensor
 http://id.loc.gov/vocabulary/relators/ltg	ltg	lithographer	Lithographer	Lithografie
-http://id.loc.gov/vocabulary/relators/ltr	ltr	letterer	Letterer
+http://id.loc.gov/vocabulary/relators/ltr	ltr	letterer	Letterer	Letterer
 http://id.loc.gov/vocabulary/relators/lyr	lyr	lyricist	Lyricist	Textdichter/in
 http://id.loc.gov/vocabulary/relators/mcp	mcp	music copyist	Music copyist
 http://id.loc.gov/vocabulary/relators/mdc	mdc	metadata contact	Metadata contact
@@ -298,12 +298,12 @@ http://id.loc.gov/vocabulary/relators/wac	wac	writer of added commentary	Writer 
 http://id.loc.gov/vocabulary/relators/wal	wal	writer of added lyrics	Writer of added lyrics	Verfasser/in von zusätzlichen Lyrics
 http://id.loc.gov/vocabulary/relators/wam	wam	writer of accompanying material	Writer of accompanying material
 http://id.loc.gov/vocabulary/relators/wat	wat	writer of added text	Writer of added text	Zusätzlicher Text
-http://id.loc.gov/vocabulary/relators/waw	waw	writer of afterword	Writer of afterword
+http://id.loc.gov/vocabulary/relators/waw	waw	writer of afterword	Writer of afterword	Verfasser/in eines Nachworts
 http://id.loc.gov/vocabulary/relators/wdc	wdc	woodcutter	Woodcutter
 http://id.loc.gov/vocabulary/relators/wde	wde	wood engraver	Wood engraver
 http://id.loc.gov/vocabulary/relators/wfs	wfs	writer of film story	Writer of film story
 http://id.loc.gov/vocabulary/relators/wft	wft	writer of intertitles	Writer of intertitles
-http://id.loc.gov/vocabulary/relators/wfw	wfw	writer of foreword	Writer of foreword
+http://id.loc.gov/vocabulary/relators/wfw	wfw	writer of foreword	Writer of foreword	Verfasser/in eines Geleitworts
 http://id.loc.gov/vocabulary/relators/win	win	writer of introduction	Writer of introduction	Einleitung
 http://id.loc.gov/vocabulary/relators/wit	wit	witness	Witness
 http://id.loc.gov/vocabulary/relators/wpr	wpr	writer of preface	Writer of preface	Vorwort
