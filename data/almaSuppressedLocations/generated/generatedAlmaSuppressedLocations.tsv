@@ -923,7 +923,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA+LH2625	suppressed
 49HBZ_UBD+HA+LH2626	suppressed
 49HBZ_UBD+HA LH2650	suppressed
-49HBZ_UBD+HA+LH2650	suppressed
 49HBZ_UBD+HA LH2651P	suppressed
 49HBZ_UBD+HA+LH2651P	suppressed
 49HBZ_UBD+HA LH2651	suppressed
@@ -1130,7 +1129,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_ULM+CASE+CASE_AUSGE	suppressed
 49HBZ_ULM+CHEM+CHEM_AUSGE	suppressed
 49HBZ_ULM+CRZI+CRZI_AUSGE	suppressed
-49HBZ_ULM+CRZI+CRZI_ISLDU	suppressed
 49HBZ_ULM+CRZI+CRZI_OTDU	suppressed
 49HBZ_ULM+DBIO+DBIO_AUSGE	suppressed
 49HBZ_ULM+DMAT+DMAT_AUSGE	suppressed
