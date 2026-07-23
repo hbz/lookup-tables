@@ -14,6 +14,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_DUE+X0001+47	suppressed
 49HBZ_DUE+X0001+AE	suppressed
 49HBZ_DUE+X0001+VERBR	suppressed
+49HBZ_DUE+X0053+53	suppressed
 49HBZ_DUE+X0099+56	suppressed
 49HBZ_DUE+X0099+MAK	suppressed
 49HBZ_DUE+X0099+NB	suppressed
@@ -449,7 +450,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA LH1453	suppressed
 49HBZ_UBD+HA+LH1453	suppressed
 49HBZ_UBD+HA LH1457	suppressed
-49HBZ_UBD+HA+LH1457	suppressed
 49HBZ_UBD+HA LH1464	suppressed
 49HBZ_UBD+HA+LH1464	suppressed
 49HBZ_UBD+HA LH1512	suppressed
@@ -928,9 +928,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA LH2651	suppressed
 49HBZ_UBD+HA+LH2651	suppressed
 49HBZ_UBD+HA LH2652	suppressed
-49HBZ_UBD+HA+LH2652	suppressed
 49HBZ_UBD+HA LH2653	suppressed
-49HBZ_UBD+HA+LH2653	suppressed
 49HBZ_UBD+HA LH2655	suppressed
 49HBZ_UBD+HA+LH2655	suppressed
 49HBZ_UBD+HA LH2656	suppressed
@@ -940,7 +938,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA LH2658	suppressed
 49HBZ_UBD+HA+LH2658	suppressed
 49HBZ_UBD+HA LH2659	suppressed
-49HBZ_UBD+HA+LH2659	suppressed
 49HBZ_UBD+HA LH2660	suppressed
 49HBZ_UBD+HA+LH2660	suppressed
 49HBZ_UBD+HA LH2661	suppressed
