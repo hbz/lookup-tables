@@ -112,6 +112,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_HSL+HWG+TI	suppressed
 49HBZ_HSL+HWG+VW	suppressed
 49HBZ_HSN+RES_SHARE+ILL	suppressed
+49HBZ_HST+RES_SHARE+PFL	suppressed
 49HBZ_HST+TR+MAK	suppressed
 49HBZ_HST+TR+Reparatur	suppressed
 49HBZ_HST+TR+Schlü/USB	suppressed
@@ -268,7 +269,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA LH0048	suppressed
 49HBZ_UBD+HA+LH0048	suppressed
 49HBZ_UBD+HA LH0067	suppressed
-49HBZ_UBD+HA+LH0067	suppressed
 49HBZ_UBD+HA LH0069	suppressed
 49HBZ_UBD+HA+LH0069	suppressed
 49HBZ_UBD+HA LH0072P	suppressed
@@ -442,7 +442,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA LH1372	suppressed
 49HBZ_UBD+HA+LH1372	suppressed
 49HBZ_UBD+HA LH1385	suppressed
-49HBZ_UBD+HA+LH1385	suppressed
 49HBZ_UBD+HA LH1401	suppressed
 49HBZ_UBD+HA LH1402	suppressed
 49HBZ_UBD+HA LH1453	suppressed
