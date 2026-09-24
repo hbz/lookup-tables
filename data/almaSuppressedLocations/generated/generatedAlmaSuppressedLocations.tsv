@@ -1109,6 +1109,15 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_ULB+SG+SG-zPULB	suppressed
 49HBZ_ULB+XD+XD-Zeit	suppressed
 49HBZ_ULB+XS+XS-Zeit	suppressed
+49HBZ_ULB+ZZ+ZZ-CD	suppressed
+49HBZ_ULB+ZZ+ZZ-CfGSMag	suppressed
+49HBZ_ULB+ZZ+ZZ-CfGS	suppressed
+49HBZ_ULB+ZZ+ZZ-Frei	suppressed
+49HBZ_ULB+ZZ+ZZ-Mag	suppressed
+49HBZ_ULB+ZZ+ZZ-MERNI	suppressed
+49HBZ_ULB+ZZ+ZZ-SammEur	suppressed
+49HBZ_ULB+ZZ+ZZ-ZEIA	suppressed
+49HBZ_ULB+ZZ+ZZ-ZEIMast	suppressed
 49HBZ_ULM+AEKO+AEKO_AUSGE	suppressed
 49HBZ_ULM+ALKU+ALKU_AUSGE	suppressed
 49HBZ_ULM+AORI+AORI_AUSGE	suppressed
