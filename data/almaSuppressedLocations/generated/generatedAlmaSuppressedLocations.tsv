@@ -223,7 +223,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+EFB SchliessF	suppressed
 49HBZ_UBD+EFB SemApp	suppressed
 49HBZ_UBD+EFB Verm-Auss	suppressed
-49HBZ_UBD+EFB+Verm-Auss	suppressed
 49HBZ_UBD+HA CET_InnoL	suppressed
 49HBZ_UBD+HA+CET_InnoL	suppressed
 49HBZ_UBD+HA CET	suppressed
@@ -322,7 +321,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+HA LH0180	suppressed
 49HBZ_UBD+HA+LH0180	suppressed
 49HBZ_UBD+HA LH0182	suppressed
-49HBZ_UBD+HA+LH0182	suppressed
 49HBZ_UBD+HA LH0183	suppressed
 49HBZ_UBD+HA+LH0183	suppressed
 49HBZ_UBD+HA LH0184	suppressed
@@ -1049,7 +1047,6 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_UBD+RES_SHARE OUT_RS_REQ	suppressed
 49HBZ_UBD+S7+Bde-in-Erw	suppressed
 49HBZ_UBD+S7 SchliessF	suppressed
-49HBZ_UBD+S7+Verm-Auss	suppressed
 49HBZ_UBD+SM+Bde-in-Erw	suppressed
 49HBZ_UBD+ZB Verm-Auss	suppressed
 49HBZ_UBO+UB+UB_ZV	suppressed
@@ -1198,6 +1195,7 @@ MemberCode[+LibraryCode]+LocationCode	status
 49HBZ_ULM+SPRA+SPRA_AUSGE	suppressed
 49HBZ_ULM+TPHY+TPHY_AUSGE	suppressed
 49HBZ_ULM+WINF+WINF_AUSGE	suppressed
+49HBZ_ULM+WINF+WINF_BIB	suppressed
 49HBZ_ULM+WIWI+WIWI_AUSGE	suppressed
 49HBZ_ULM+WIWI+WIWI_SFS	suppressed
 49HBZ_ULM+ZB+ZB_AUSGE	suppressed
